@@ -1,0 +1,11 @@
+# robots.txt for https://www.pixelgame.vip
+User-agent: *
+Allow: /
+Disallow: /images/raw/
+Disallow: /temp/
+
+# Sitemap
+Sitemap: https://www.pixelgame.vip/sitemap.xml
+
+# Crawl-delay
+Crawl-delay: 1 
