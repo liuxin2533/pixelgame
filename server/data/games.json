@@ -1,0 +1,558 @@
+[
+  {
+    "id": "Contra (U)",
+    "name": "(U) Contra",
+    "name_i18n": {
+      "zh-CN": "(美版) 魂斗罗"
+    },
+    "description": "",
+    "cover": "/images/games/(U) Contra-4-4-2025.png",
+    "screenshots": [],
+    "releaseYear": null,
+    "developer": "",
+    "publisher": "",
+    "genres": [
+      "Platform",
+      "Action"
+    ],
+    "platforms": [
+      "nes"
+    ],
+    "rating": 0,
+    "featured": false,
+    "hot": true,
+    "popularity": 0,
+    "emulatorSettings": {
+      "type": "nes",
+      "configOptions": {
+        "controllerMapping": "standard"
+      }
+    }
+  },
+  {
+    "id": "Contra Force (U)",
+    "name": "(U) Contra Force",
+    "name_i18n": {
+      "zh-CN": "(美版) 魂斗罗力量"
+    },
+    "description": "",
+    "cover": "/images/games/(U) Contra Force-4-4-2025.png",
+    "screenshots": [],
+    "releaseYear": null,
+    "developer": "",
+    "publisher": "",
+    "genres": [
+      "Platform",
+      "Action"
+    ],
+    "platforms": [
+      "nes"
+    ],
+    "rating": 0,
+    "featured": false,
+    "popularity": 0,
+    "emulatorSettings": {
+      "type": "nes",
+      "configOptions": {
+        "controllerMapping": "standard"
+      }
+    }
+  },
+  {
+    "id": "Teenage Mutant Hero Turtles - Tournament Fighters (E)",
+    "name": "(E) Teenage Mutant Hero Turtles - Tournament Fighters",
+    "name_i18n": {
+      "zh-CN": "(欧版) 忍者神龟格斗"
+    },
+    "description": "",
+    "cover": "/images/games/Teenage Mutant Hero Turtles - Tournament Fighters (E) []-4-4-2025.png",
+    "screenshots": [],
+    "releaseYear": null,
+    "developer": "",
+    "publisher": "",
+    "genres": [
+      "Platform",
+      "Action"
+    ],
+    "platforms": [
+      "nes"
+    ],
+    "rating": 0,
+    "featured": false,
+    "hot": true,
+    "popularity": 0,
+    "emulatorSettings": {
+      "type": "nes",
+      "configOptions": {
+        "controllerMapping": "standard"
+      }
+    }
+  },
+  {
+    "id": "Metal Max",
+    "name": "Metal Max",
+    "name_i18n": {
+      "zh-CN": "(日版) 重装机兵"
+    },
+    "description": "",
+    "cover": "/images/games/Metal Max-4-4-2025.png",
+    "screenshots": [],
+    "releaseYear": null,
+    "developer": "",
+    "publisher": "",
+    "genres": [
+      "Platform",
+      "Action"
+    ],
+    "platforms": [
+      "nes"
+    ],
+    "rating": 0,
+    "featured": false,
+    "popularity": 0,
+    "emulatorSettings": {
+      "type": "nes",
+      "configOptions": {
+        "controllerMapping": "standard"
+      }
+    }
+  },
+  {
+    "id": "Metal Max (CN)",
+    "name": "(汉化) Metal Max",
+    "name_i18n": {
+      "zh-CN": "(汉化) 重装机兵"
+    },
+    "description": "",
+    "cover": "/images/games/Metal Max-4-4-2025.png",
+    "screenshots": [],
+    "releaseYear": null,
+    "developer": "",
+    "publisher": "",
+    "genres": [
+      "Platform",
+      "Action"
+    ],
+    "platforms": [
+      "nes"
+    ],
+    "rating": 0,
+    "featured": false,
+    "hot": true,
+    "popularity": 0,
+    "emulatorSettings": {
+      "type": "nes",
+      "configOptions": {
+        "controllerMapping": "standard"
+      }
+    }
+  },
+  {
+    "id": "Metal Max (CN) (金钱9999999 所有人物 战车 装备超强)",
+    "name": "Metal Max (汉化+神装无限G)",
+    "name_i18n": {
+      "zh-CN": "(汉化+神装无限G) 重装机兵"
+    },
+    "description": "",
+    "cover": "/images/games/Metal Max-4-4-2025.png",
+    "screenshots": [],
+    "releaseYear": null,
+    "developer": "",
+    "publisher": "",
+    "genres": [
+      "Platform",
+      "Action"
+    ],
+    "platforms": [
+      "nes"
+    ],
+    "rating": 0,
+    "featured": false,
+    "popularity": 0,
+    "emulatorSettings": {
+      "type": "nes",
+      "configOptions": {
+        "controllerMapping": "standard"
+      }
+    }
+  },
+  {
+    "id": "Bikkuri Nekketsu Shin Kiroku! - Harukanaru Kin Medal (J)",
+    "name": "(J) Bikkuri Nekketsu Shin Kiroku! - Harukanaru Kin Medal",
+    "name_i18n": {
+      "zh-CN": "(日版) 热血新纪录"
+    },
+    "description": "",
+    "cover": "/images/games/(J) Bikkuri Nekketsu Shin Kiroku - Harukanaru Kin Medal-4-5-2025.png",
+    "screenshots": [],
+    "releaseYear": null,
+    "developer": "",
+    "publisher": "",
+    "genres": [
+      "Platform",
+      "Action"
+    ],
+    "platforms": [
+      "nes"
+    ],
+    "rating": 0,
+    "featured": false,
+    "hot": true,
+    "popularity": 0,
+    "emulatorSettings": {
+      "type": "nes",
+      "configOptions": {
+        "controllerMapping": "standard"
+      }
+    }
+  },
+  {
+    "id": "Crash 'n the Boys - Street Challenge (U)",
+    "name": "(U) Crash 'n the Boys - Street Challenge",
+    "name_i18n": {
+      "zh-CN": "(美版) 热血新纪录"
+    },
+    "description": "",
+    "cover": "/images/games/(U) Crash n the Boys - Street Challenge-4-5-2025.png",
+    "screenshots": [],
+    "releaseYear": null,
+    "developer": "",
+    "publisher": "",
+    "genres": [
+      "Platform",
+      "Action"
+    ],
+    "platforms": [
+      "nes"
+    ],
+    "rating": 0,
+    "featured": false,
+    "popularity": 0,
+    "emulatorSettings": {
+      "type": "nes",
+      "configOptions": {
+        "controllerMapping": "standard"
+      }
+    }
+  },
+  {
+    "id": "Downtown - Nekketsu Monogatari (J)",
+    "name": "(J) Downtown - Nekketsu Monogatari",
+    "name_i18n": {
+      "zh-CN": "(日版) 热血物语"
+    },
+    "description": "",
+    "cover": "/images/games/(J) Downtown - Nekketsu Monogatari-4-5-2025.png",
+    "screenshots": [],
+    "releaseYear": null,
+    "developer": "",
+    "publisher": "",
+    "genres": [
+      "Platform",
+      "Action"
+    ],
+    "platforms": [
+      "nes"
+    ],
+    "rating": 0,
+    "featured": false,
+    "popularity": 0,
+    "emulatorSettings": {
+      "type": "nes",
+      "configOptions": {
+        "controllerMapping": "standard"
+      }
+    }
+  },
+  {
+    "id": "River City Ransom (U)",
+    "name": "(U) River City Ransom",
+    "name_i18n": {
+      "zh-CN": "(美版) 热血物语"
+    },
+    "description": "",
+    "cover": "/images/games/(U) River City Ransom-4-5-2025.png",
+    "screenshots": [],
+    "releaseYear": null,
+    "developer": "",
+    "publisher": "",
+    "genres": [
+      "Platform",
+      "Action"
+    ],
+    "platforms": [
+      "nes"
+    ],
+    "rating": 0,
+    "featured": false,
+    "popularity": 0,
+    "emulatorSettings": {
+      "type": "nes",
+      "configOptions": {
+        "controllerMapping": "standard"
+      }
+    }
+  },
+  {
+    "id": "Street Gangs (E)",
+    "name": "(E) Street Gangs",
+    "name_i18n": {
+      "zh-CN": "(欧版) 热血物语"
+    },
+    "description": "",
+    "cover": "/images/games/(E) Street Gangs-4-5-2025.png",
+    "screenshots": [],
+    "releaseYear": null,
+    "developer": "",
+    "publisher": "",
+    "genres": [
+      "Platform",
+      "Action"
+    ],
+    "platforms": [
+      "nes"
+    ],
+    "rating": 0,
+    "featured": false,
+    "popularity": 0,
+    "emulatorSettings": {
+      "type": "nes",
+      "configOptions": {
+        "controllerMapping": "standard"
+      }
+    }
+  },
+  {
+    "id": "Takahashi Meijin no Bouken Shima (J)",
+    "name": "(J) Takahashi Meijin no Bouken Shima",
+    "name_i18n": {
+      "zh-CN": "(日版) 冒险岛"
+    },
+    "description": "",
+    "cover": "/images/games/(J) Takahashi Meijin no Bouken Shima (J)-4-5-2025.png",
+    "screenshots": [],
+    "releaseYear": null,
+    "developer": "",
+    "publisher": "",
+    "genres": [
+      "Platform",
+      "Action"
+    ],
+    "platforms": [
+      "nes"
+    ],
+    "rating": 0,
+    "featured": false,
+    "hot": true,
+    "popularity": 0,
+    "emulatorSettings": {
+      "type": "nes",
+      "configOptions": {
+        "controllerMapping": "standard"
+      }
+    }
+  },
+  {
+    "id": "Hudson's Adventure Island (U)",
+    "name": "(U) Hudson's Adventure Island",
+    "name_i18n": {
+      "zh-CN": "(美版) 冒险岛"
+    },
+    "description": "",
+    "cover": "/images/games/(U) Hudsons Adventure Island-4-5-2025.png",
+    "screenshots": [],
+    "releaseYear": null,
+    "developer": "",
+    "publisher": "",
+    "genres": [
+      "Platform",
+      "Action"
+    ],
+    "platforms": [
+      "nes"
+    ],
+    "rating": 0,
+    "featured": false,
+    "popularity": 0,
+    "emulatorSettings": {
+      "type": "nes",
+      "configOptions": {
+        "controllerMapping": "standard"
+      }
+    }
+  },
+  {
+    "id": "Takahashi Meijin no Bouken Shima II (J)",
+    "name": "(J) Takahashi Meijin no Bouken Shima II",
+    "name_i18n": {
+      "zh-CN": "(日版) 冒险岛2"
+    },
+    "description": "",
+    "cover": "/images/games/(J) Takahashi Meijin no Bouken Shima II-4-5-2025.png",
+    "screenshots": [],
+    "releaseYear": null,
+    "developer": "",
+    "publisher": "",
+    "genres": [
+      "Platform",
+      "Action"
+    ],
+    "platforms": [
+      "nes"
+    ],
+    "rating": 0,
+    "featured": false,
+    "popularity": 0,
+    "emulatorSettings": {
+      "type": "nes",
+      "configOptions": {
+        "controllerMapping": "standard"
+      }
+    }
+  },
+  {
+    "id": "Hudson's Adventure Island II (U)",
+    "name": "(U) Hudson's Adventure Island II",
+    "name_i18n": {
+      "zh-CN": "(美版) 冒险岛2"
+    },
+    "description": "",
+    "cover": "/images/games/(U) Hudsons Adventure Island II-4-5-2025.png",
+    "screenshots": [],
+    "releaseYear": null,
+    "developer": "",
+    "publisher": "",
+    "genres": [
+      "Platform",
+      "Action"
+    ],
+    "platforms": [
+      "nes"
+    ],
+    "rating": 0,
+    "featured": false,
+    "popularity": 0,
+    "emulatorSettings": {
+      "type": "nes",
+      "configOptions": {
+        "controllerMapping": "standard"
+      }
+    }
+  },
+  {
+    "id": "Takahashi Meijin no Bouken Shima III (J)",
+    "name": "(J) Takahashi Meijin no Bouken Shima III",
+    "name_i18n": {
+      "zh-CN": "(日版) 冒险岛3"
+    },
+    "description": "",
+    "cover": "/images/games/(J) Takahashi Meijin no Bouken Shima III-4-5-2025.png",
+    "screenshots": [],
+    "releaseYear": null,
+    "developer": "",
+    "publisher": "",
+    "genres": [
+      "Platform",
+      "Action"
+    ],
+    "platforms": [
+      "nes"
+    ],
+    "rating": 0,
+    "featured": false,
+    "popularity": 0,
+    "emulatorSettings": {
+      "type": "nes",
+      "configOptions": {
+        "controllerMapping": "standard"
+      }
+    }
+  },
+  {
+    "id": "Hudson's Adventure Island III (U)",
+    "name": "(U) Hudson's Adventure Island III",
+    "name_i18n": {
+      "zh-CN": "(美版) 冒险岛3"
+    },
+    "description": "",
+    "cover": "/images/games/(U) Hudsons Adventure Island III-4-5-2025.png",
+    "screenshots": [],
+    "releaseYear": null,
+    "developer": "",
+    "publisher": "",
+    "genres": [
+      "Platform",
+      "Action"
+    ],
+    "platforms": [
+      "nes"
+    ],
+    "rating": 0,
+    "featured": false,
+    "popularity": 0,
+    "emulatorSettings": {
+      "type": "nes",
+      "configOptions": {
+        "controllerMapping": "standard"
+      }
+    }
+  },
+  {
+    "id": "Takahashi Meijin no Bouken Shima IV (J)",
+    "name": "(J) Takahashi Meijin no Bouken Shima IV",
+    "name_i18n": {
+      "zh-CN": "(日版) 冒险岛4"
+    },
+    "description": "",
+    "cover": "/images/games/(J) Takahashi Meijin no Bouken Shima IV-4-5-2025.png",
+    "screenshots": [],
+    "releaseYear": null,
+    "developer": "",
+    "publisher": "",
+    "genres": [
+      "Platform",
+      "Action"
+    ],
+    "platforms": [
+      "nes"
+    ],
+    "rating": 0,
+    "featured": false,
+    "popularity": 0,
+    "emulatorSettings": {
+      "type": "nes",
+      "configOptions": {
+        "controllerMapping": "standard"
+      }
+    }
+  },
+  {
+    "id": "Super Mario Kart (Japan)",
+    "name": "(J) Super Mario Kart",
+    "name_i18n": {
+      "zh-CN": "(日版) 超级马里奥赛车"
+    },
+    "description": "",
+    "cover": "/images/games/(J) Super Mario Kart-4-5-2025.png",
+    "screenshots": [],
+    "releaseYear": null,
+    "developer": "",
+    "publisher": "",
+    "genres": [
+      "Platform",
+      "Action"
+    ],
+    "platforms": [
+      "snes"
+    ],
+    "rating": 0,
+    "featured": false,
+    "popularity": 0,
+    "emulatorSettings": {
+      "type": "snes",
+      "configOptions": {
+        "controllerMapping": "standard"
+      }
+    }
+  }
+]

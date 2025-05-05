@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="120" height="120" viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <!-- 主体 -->
+    <rect x="10" y="30" width="100" height="55" rx="4" fill="#b3b4b8" stroke="#333333"
+        stroke-width="2" />
+
+    <!-- 顶部纹理 -->
+    <rect x="15" y="35" width="90" height="5" rx="1" fill="#9c9ea3" />
+
+    <!-- 卡带插槽 -->
+    <rect x="25" y="45" width="70" height="10" rx="2" fill="#333333" />
+
+    <!-- 控制面板 -->
+    <rect x="15" y="65" width="90" height="15" rx="2" fill="#9c9ea3" />
+
+    <!-- 电源指示灯 -->
+    <circle cx="25" cy="72" r="3" fill="#00ff00" />
+
+    <!-- 电源开关 -->
+    <rect x="35" y="69" width="15" height="6" rx="3" fill="#333333" />
+
+    <!-- 重置按钮 -->
+    <rect x="55" y="69" width="15" height="6" rx="3" fill="#333333" />
+
+    <!-- 彩色按钮装饰 -->
+    <rect x="80" y="68" width="8" height="8" rx="1" fill="#7B68EE" />
+    <rect x="90" y="68" width="8" height="8" rx="1" fill="#32CD32" />
+    <rect x="80" y="78" width="8" height="2" rx="1" fill="#FFD700" />
+    <rect x="90" y="78" width="8" height="2" rx="1" fill="#FF6347" />
+
+    <!-- SFC标志 -->
+    <text x="100" y="55" font-family="Arial" font-size="10" font-weight="bold" fill="#333333">SFC</text>
+</svg> 

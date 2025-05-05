@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="300" height="400" viewBox="0 0 300 400" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <!-- 封面背景 -->
+    <rect width="300" height="400" fill="#5C94FC" />
+
+    <!-- 地面 -->
+    <rect x="0" y="320" width="300" height="80" fill="#94C16C" />
+
+    <!-- 砖块 -->
+    <rect x="40" y="120" width="40" height="40" fill="#C86428" />
+    <rect x="42" y="122" width="36" height="36" fill="#FCAD3C" />
+    <rect x="100" y="120" width="40" height="40" fill="#C86428" />
+    <rect x="102" y="122" width="36" height="36" fill="#FCAD3C" />
+    <rect x="160" y="120" width="40" height="40" fill="#C86428" />
+    <rect x="162" y="122" width="36" height="36" fill="#FCAD3C" />
+    <rect x="220" y="120" width="40" height="40" fill="#C86428" />
+    <rect x="222" y="122" width="36" height="36" fill="#FCAD3C" />
+
+    <!-- 问号砖块 -->
+    <rect x="120" y="200" width="40" height="40" fill="#C86428" />
+    <rect x="122" y="202" width="36" height="36" fill="#FCAD3C" />
+    <text x="140" y="227" font-family="Arial" font-size="24" font-weight="bold" fill="white"
+        text-anchor="middle">?</text>
+
+    <!-- 管道 -->
+    <rect x="220" y="260" width="50" height="60" fill="#00A744" />
+    <rect x="225" y="260" width="40" height="10" fill="#00D764" />
+
+    <!-- 马里奥 -->
+    <g transform="translate(120, 240)">
+        <!-- 帽子 -->
+        <rect x="0" y="0" width="50" height="20" fill="#FF0000" />
+        <!-- 脸 -->
+        <rect x="10" y="20" width="40" height="40" fill="#FFCCAA" />
+        <!-- 眼睛 -->
+        <rect x="20" y="30" width="10" height="10" fill="#000000" />
+        <!-- 鼻子 -->
+        <rect x="35" y="35" width="15" height="15" fill="#FFCCAA" />
+        <!-- 胡子 -->
+        <rect x="25" y="45" width="25" height="5" fill="#000000" />
+        <!-- 衣服 -->
+        <rect x="10" y="60" width="40" height="20" fill="#FF0000" />
+        <rect x="15" y="60" width="10" height="20" fill="#3333FF" />
+        <rect x="35" y="60" width="10" height="20" fill="#3333FF" />
+    </g>
+
+    <!-- 游戏标题 -->
+    <text x="150" y="50" font-family="Arial" font-size="32" font-weight="bold" fill="white"
+        text-anchor="middle">SUPER</text>
+    <text x="150" y="90" font-family="Arial" font-size="32" font-weight="bold" fill="white"
+        text-anchor="middle">MARIO</text>
+
+    <!-- FC/NES logo -->
+    <rect x="10" y="10" width="50" height="30" rx="5" fill="#ffffff" />
+    <text x="35" y="30" font-family="Arial" font-size="20" font-weight="bold" fill="#ff0000"
+        text-anchor="middle">FC</text>
+</svg> 

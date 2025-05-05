@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="300" height="400" viewBox="0 0 300 400" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <!-- 封面背景 -->
+    <rect width="300" height="400" fill="#0a5c36" />
+
+    <!-- 森林纹理 -->
+    <path
+        d="M0 300C30 290 60 310 90 300C120 290 150 310 180 300C210 290 240 310 270 300C300 290 330 310 330 300V400H0V300Z"
+        fill="#094428" />
+    <path
+        d="M0 330C30 320 60 340 90 330C120 320 150 340 180 330C210 320 240 340 270 330C300 320 330 340 330 330V400H0V330Z"
+        fill="#073016" />
+
+    <!-- 三角力量 -->
+    <path d="M150 80L110 150H190L150 80Z" fill="#ffd700" stroke="#ffffff" stroke-width="2" />
+    <path d="M120 170L80 240H160L120 170Z" fill="#ffd700" stroke="#ffffff" stroke-width="2" />
+    <path d="M180 170L140 240H220L180 170Z" fill="#ffd700" stroke="#ffffff" stroke-width="2" />
+
+    <!-- 大师剑 -->
+    <rect x="148" y="150" width="4" height="140" fill="#aaaaaa" />
+    <path d="M130 150H170L150 130L130 150Z" fill="#4169e1" />
+    <rect x="138" y="150" width="24" height="10" rx="2" fill="#996633" />
+
+    <!-- 林克 -->
+    <g transform="translate(150, 250)">
+        <!-- 身体（绿色衣服） -->
+        <rect x="-15" y="0" width="30" height="40" fill="#2e8b57" />
+        <!-- 头部 -->
+        <circle cx="0" cy="-10" r="15" fill="#f5deb3" />
+        <!-- 帽子 -->
+        <path d="M-15 -10L0 -35L15 -10C15 -10 10 -20 0 -20C-10 -20 -15 -10 -15 -10Z" fill="#2e8b57" />
+        <!-- 眼睛 -->
+        <circle cx="-5" cy="-10" r="2" fill="#000000" />
+        <circle cx="5" cy="-10" r="2" fill="#000000" />
+        <!-- 盾牌 -->
+        <rect x="-25" y="-5" width="15" height="20" rx="2" fill="#4169e1" />
+        <path d="M-25 5L-17.5 15L-10 5" stroke="#ffd700" stroke-width="1" />
+    </g>
+
+    <!-- 游戏标题 -->
+    <text x="150" y="40" font-family="Arial" font-size="28" font-weight="bold" fill="#ffd700"
+        text-anchor="middle">THE LEGEND OF</text>
+    <text x="150" y="70" font-family="Arial" font-size="32" font-weight="bold" fill="#ffd700"
+        text-anchor="middle">ZELDA</text>
+
+    <!-- 中文标题 -->
+    <text x="150" y="350" font-family="Arial" font-size="24" font-weight="bold" fill="white"
+        text-anchor="middle">塞尔达传说</text>
+
+    <!-- SFC标志 -->
+    <rect x="10" y="10" width="60" height="30" rx="5" fill="#ffffff" />
+    <text x="40" y="30" font-family="Arial" font-size="18" font-weight="bold" fill="#b3b4b8"
+        text-anchor="middle">SFC</text>
+
+    <!-- 任天堂标志 -->
+    <text x="150" y="380" font-family="Arial" font-size="16" fill="#eeeeee" text-anchor="middle">
+        NINTENDO</text>
+</svg> 

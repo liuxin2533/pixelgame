@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="300" height="200" viewBox="0 0 300 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- SFC主机主体 -->
+  <rect x="50" y="80" width="200" height="60" rx="8" fill="#EBEBEB" stroke="#555555"
+    stroke-width="2" />
+
+  <!-- 上部圆角装饰 -->
+  <rect x="65" y="60" width="170" height="20" rx="10" fill="#EBEBEB" stroke="#555555"
+    stroke-width="2" />
+
+  <!-- 彩色按钮区 -->
+  <rect x="170" y="65" width="55" height="30" rx="2" fill="#EBEBEB" stroke="#555555"
+    stroke-width="1" />
+
+  <!-- 圆形彩色按钮 -->
+  <circle cx="180" cy="80" r="6" fill="#5B57A2" stroke="#333333" stroke-width="1" /> <!-- X -->
+  <circle cx="195" cy="80" r="6" fill="#EE3A86" stroke="#333333" stroke-width="1" /> <!-- A -->
+  <circle cx="210" cy="80" r="6" fill="#FFCE06" stroke="#333333" stroke-width="1" /> <!-- Y -->
+  <circle cx="225" cy="80" r="6" fill="#42B449" stroke="#333333" stroke-width="1" /> <!-- B -->
+
+  <!-- 卡槽 -->
+  <rect x="75" y="65" width="80" height="20" rx="2" fill="#777777" stroke="#333333" stroke-width="1" />
+  <rect x="85" y="70" width="60" height="10" rx="1" fill="#333333" />
+
+  <!-- 底部控制区 -->
+  <rect x="60" y="100" width="180" height="30" rx="3" fill="#EBEBEB" stroke="#555555"
+    stroke-width="1" />
+
+  <!-- 电源指示灯 -->
+  <circle cx="70" cy="115" r="3" fill="#FF0000" stroke="#333333" stroke-width="0.5" />
+
+  <!-- 开关按钮 -->
+  <rect x="85" y="110" width="15" height="10" rx="2" fill="#333333" />
+  <rect x="110" y="110" width="15" height="10" rx="2" fill="#333333" />
+
+  <!-- 装饰性细节 -->
+  <text x="135" y="120" font-family="Arial" font-size="10" fill="#333333" font-weight="bold"
+    text-anchor="middle">SUPER NINTENDO</text>
+
+  <!-- 像素风格点缀 -->
+  <rect x="60" y="65" width="5" height="5" fill="#EE3A86" />
+  <rect x="235" y="65" width="5" height="5" fill="#5B57A2" />
+  <rect x="65" y="125" width="3" height="3" fill="#42B449" />
+  <rect x="232" y="125" width="3" height="3" fill="#FFCE06" />
+</svg> 

@@ -1,0 +1,115 @@
+@import "tailwindcss";
+@import "@nuxt/ui";
+
+/* 颜色变量 */
+:root {
+  --color-retro-50: #f8f8f8;
+  --color-retro-100: #e0e0e8;
+  --color-retro-200: #b8b8c0;
+  --color-retro-300: #8888a0;
+  --color-retro-400: #6870a4;
+  --color-retro-500: #585880;
+  --color-retro-600: #404068;
+  --color-retro-700: #383850;
+  --color-retro-800: #282840;
+  --color-retro-900: #202030;
+  --color-retro-950: #101018;
+
+  --color-nes: #e52521;
+  --color-sfc: #E49B0F;
+  --color-gba: #673AB7;
+  --color-gbc: #3DB54A;
+  --color-md: #0073BC;
+  
+  /* 字体相关 */
+  font-family: 'VT323', monospace;
+  letter-spacing: 0.05em;
+  text-shadow: 1px 1px 0px rgba(0, 0, 0, 0.1);
+  
+  /* 文本阴影变量 */
+  --text-shadow-retro: 1px 1px 0px rgba(0, 0, 0, 0.1);
+  --text-shadow-glow: 0 0 3px rgba(104, 112, 164, 0.2);
+  --text-shadow-pixel: -1px -1px 0 rgba(0,0,0,0.5), 1px -1px 0 rgba(0,0,0,0.5), -1px 1px 0 rgba(0,0,0,0.5), 1px 1px 0 rgba(0,0,0,0.5);
+}
+
+/* 字体样式 */
+
+.font-pixel {
+  font-family: 'Press Start 2P';
+  line-height: 1.5;
+  letter-spacing: 0.05em;
+}
+
+/* 像素化边角 */
+.pixel-corners {
+  clip-path: 
+    polygon(
+      0px 4px,
+      4px 4px,
+      4px 0px,
+      calc(100% - 4px) 0px,
+      calc(100% - 4px) 4px,
+      100% 4px,
+      100% calc(100% - 4px),
+      calc(100% - 4px) calc(100% - 4px),
+      calc(100% - 4px) 100%,
+      4px 100%,
+      4px calc(100% - 4px),
+      0px calc(100% - 4px)
+    );
+}
+/* 阴影效果 */
+
+.shadow-retro {
+  box-shadow: 4px 4px 0 rgba(0, 0, 0, 0.4);
+}
+
+/* 移动端优化 */
+@media (max-width: 640px) {
+  .font-pixel.text-3xl {
+    font-size: 1.25rem;
+  }
+
+  .font-pixel.text-2xl {
+    font-size: 1rem;
+  }
+
+  .retro-container {
+    padding-left: 0.75rem;
+    padding-right: 0.75rem;
+  }
+}
+
+/* 动画效果 */
+
+@keyframes glitch {
+  0% {
+    clip-path: inset(40% 0 61% 0);
+    transform: translate(-2px, 2px);
+  }
+
+  20% {
+    clip-path: inset(92% 0 1% 0);
+    transform: translate(1px, 1px);
+  }
+
+  40% {
+    clip-path: inset(43% 0 1% 0);
+    transform: translate(-1px, -1px);
+  }
+
+  60% {
+    clip-path: inset(25% 0 58% 0);
+    transform: translate(2px, -2px);
+  }
+
+  80% {
+    clip-path: inset(54% 0 7% 0);
+    transform: translate(-2px, 2px);
+  }
+
+  100% {
+    clip-path: inset(58% 0 43% 0);
+    transform: translate(2px, -2px);
+  }
+}

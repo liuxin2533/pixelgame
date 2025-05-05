@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="300" height="400" viewBox="0 0 300 400" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <!-- 封面背景 -->
+    <rect width="300" height="400" fill="#222222" />
+
+    <!-- 砖墙背景 -->
+    <g>
+        <!-- 第1行 -->
+        <rect x="40" y="120" width="20" height="20" fill="#c65d35" />
+        <rect x="70" y="120" width="20" height="20" fill="#c65d35" />
+        <rect x="100" y="120" width="20" height="20" fill="#c65d35" />
+        <rect x="130" y="120" width="20" height="20" fill="#c65d35" />
+        <rect x="160" y="120" width="20" height="20" fill="#c65d35" />
+        <rect x="190" y="120" width="20" height="20" fill="#c65d35" />
+        <rect x="220" y="120" width="20" height="20" fill="#c65d35" />
+        <rect x="250" y="120" width="20" height="20" fill="#c65d35" />
+
+        <!-- 第2行 -->
+        <rect x="40" y="150" width="20" height="20" fill="#c65d35" />
+        <rect x="70" y="150" width="20" height="20" fill="#c65d35" />
+        <rect x="130" y="150" width="20" height="20" fill="#c65d35" />
+        <rect x="160" y="150" width="20" height="20" fill="#c65d35" />
+        <rect x="220" y="150" width="20" height="20" fill="#c65d35" />
+        <rect x="250" y="150" width="20" height="20" fill="#c65d35" />
+
+        <!-- 第3行 -->
+        <rect x="40" y="180" width="20" height="20" fill="#c65d35" />
+        <rect x="100" y="180" width="20" height="20" fill="#c65d35" />
+        <rect x="130" y="180" width="20" height="20" fill="#c65d35" />
+        <rect x="160" y="180" width="20" height="20" fill="#c65d35" />
+        <rect x="190" y="180" width="20" height="20" fill="#c65d35" />
+        <rect x="250" y="180" width="20" height="20" fill="#c65d35" />
+
+        <!-- 第4行 -->
+        <rect x="40" y="210" width="20" height="20" fill="#c65d35" />
+        <rect x="70" y="210" width="20" height="20" fill="#c65d35" />
+        <rect x="100" y="210" width="20" height="20" fill="#c65d35" />
+        <rect x="190" y="210" width="20" height="20" fill="#c65d35" />
+        <rect x="220" y="210" width="20" height="20" fill="#c65d35" />
+        <rect x="250" y="210" width="20" height="20" fill="#c65d35" />
+
+        <!-- 第5行 -->
+        <rect x="40" y="240" width="20" height="20" fill="#c65d35" />
+        <rect x="100" y="240" width="20" height="20" fill="#c65d35" />
+        <rect x="160" y="240" width="20" height="20" fill="#c65d35" />
+        <rect x="190" y="240" width="20" height="20" fill="#c65d35" />
+        <rect x="250" y="240" width="20" height="20" fill="#c65d35" />
+    </g>
+
+    <!-- 基地图标 -->
+    <rect x="130" y="240" width="40" height="40" fill="#333333" stroke="#666666" stroke-width="2" />
+    <rect x="140" y="250" width="20" height="20" fill="#666666" />
+    <path d="M140 250L160 270M160 250L140 270" stroke="#ff0000" stroke-width="2" />
+
+    <!-- 玩家坦克 -->
+    <g transform="translate(80, 170)">
+        <!-- 坦克本体 -->
+        <rect x="0" y="0" width="30" height="30" fill="#4a994a" />
+        <!-- 坦克炮管 -->
+        <rect x="10" y="-15" width="10" height="15" fill="#4a994a" />
+        <!-- 坦克履带 -->
+        <rect x="-5" y="0" width="5" height="30" fill="#333333" />
+        <rect x="30" y="0" width="5" height="30" fill="#333333" />
+    </g>
+
+    <!-- 敌方坦克 -->
+    <g transform="translate(200, 170)">
+        <!-- 坦克本体 -->
+        <rect x="0" y="0" width="30" height="30" fill="#a85757" />
+        <!-- 坦克炮管 -->
+        <rect x="10" y="-15" width="10" height="15" fill="#a85757" />
+        <!-- 坦克履带 -->
+        <rect x="-5" y="0" width="5" height="30" fill="#333333" />
+        <rect x="30" y="0" width="5" height="30" fill="#333333" />
+    </g>
+
+    <!-- 游戏标题 -->
+    <text x="150" y="60" font-family="Arial" font-size="34" font-weight="bold" fill="white"
+        text-anchor="middle">BATTLE CITY</text>
+
+    <!-- 中文标题 -->
+    <text x="150" y="330" font-family="Arial" font-size="30" font-weight="bold" fill="white"
+        text-anchor="middle">坦克大战</text>
+
+    <!-- FC/NES logo -->
+    <rect x="10" y="10" width="50" height="30" rx="5" fill="#ffffff" />
+    <text x="35" y="30" font-family="Arial" font-size="20" font-weight="bold" fill="#ff0000"
+        text-anchor="middle">FC</text>
+
+    <!-- Namco标志 -->
+    <text x="150" y="370" font-family="Arial" font-size="20" fill="#cccccc" text-anchor="middle">
+        NAMCO</text>
+</svg> 

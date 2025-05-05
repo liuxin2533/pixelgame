@@ -1,0 +1,68 @@
+[
+  {
+    "id": "nes",
+    "name": "红白机 / FC",
+    "description": "红白机（FC）是任天堂公司于1983年在日本首发的8位家用游戏机，也被称为\"Family Computer\"（FC）。凭借其标志性的红白配色和经典游戏阵容，它奠定了现代电子游戏的基础。",
+    "logo": "/images/nes-decoration.svg",
+    "releaseYear": 1985,
+    "manufacturer": "Nintendo",
+    "discontinued": 1995,
+    "specifications": {
+      "CPU": "Ricoh 2A03 8位处理器（基于MOS 6502核心），主频1.79 MHz",
+      "RAM": "2 KB工作内存，2 KB视频内存",
+      "Video": "PPU（图像处理单元）分辨率为256 × 240像素",
+      "Colors": "52种颜色和5种灰度"
+    },
+    "totalGames": 716,
+    "featured": true,
+    "emulator": {
+      "name": "Nestopia",
+      "downloadUrl": "https://nestopia.sourceforge.net/",
+      "configInstructions": "下载并安装Nestopia后，在设置菜单中配置控制器。"
+    }
+  },
+  {
+    "id": "snes",
+    "name": "超级任天堂 / SFC",
+    "description": "超级任天堂（SNES/SFC）是任天堂于1990年在日本推出的16位家用游戏机，北美版于1991年发售。作为红白机的后继产品，它带来了更先进的图形和音效，以及众多经典游戏系列的延续。",
+    "logo": "/images/snes-decoration.svg",
+    "releaseYear": 1991,
+    "manufacturer": "Nintendo",
+    "discontinued": 1999,
+    "specifications": {
+      "CPU": "Ricoh 5A22处理器，主频3.58 MHz",
+      "RAM": "128 KB主内存，64 KB视频内存",
+      "Video": "PPU（图像处理单元）分辨率最高可达256 × 224像素",
+      "Audio": "索尼SPC700处理器，8声道，16位立体声"
+    },
+    "totalGames": 1757,
+    "featured": true,
+    "emulator": {
+      "name": "Snes9x",
+      "downloadUrl": "https://www.snes9x.com/",
+      "configInstructions": "下载Snes9x并解压到一个文件夹中。在输入设置中配置控制器。"
+    }
+  },
+  {
+    "id": "gba",
+    "name": "Game Boy Advance",
+    "description": "Game Boy Advance（GBA）是任天堂于2001年推出的32位掌机游戏机，作为Game Boy系列的第三代产品，它极大地提升了便携式游戏的表现力和游戏体验。",
+    "logo": "/images/gba-decoration.svg",
+    "releaseYear": 2001,
+    "manufacturer": "Nintendo",
+    "discontinued": 2010,
+    "specifications": {
+      "CPU": "ARM7TDMI处理器，主频16.8 MHz",
+      "RAM": "256 KB WRAM，96 KB VRAM",
+      "Video": "240 × 160像素液晶显示屏",
+      "Colors": "支持32,768色（15位真彩色）"
+    },
+    "totalGames": 1538,
+    "featured": true,
+    "emulator": {
+      "name": "mGBA",
+      "downloadUrl": "https://mgba.io/",
+      "configInstructions": "下载mGBA并安装。可通过Options菜单配置按键映射和图像设置。"
+    }
+  }
+]

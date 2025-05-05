@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="300" height="200" viewBox="0 0 300 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- FC主机 - 像素风格边缘 -->
+  <rect x="50" y="40" width="200" height="80" fill="#D42C2C" stroke="#000000" stroke-width="3"
+    stroke-linecap="square" stroke-linejoin="miter" />
+  <rect x="50" y="120" width="200" height="40" fill="#999999" stroke="#000000" stroke-width="3"
+    stroke-linecap="square" stroke-linejoin="miter" />
+
+  <!-- 卡带插口 -->
+  <rect x="115" y="130" width="70" height="20" fill="#555555" stroke="#000000" stroke-width="2"
+    stroke-linecap="square" stroke-linejoin="miter" />
+
+  <!-- 控制按钮部分 -->
+  <rect x="60" y="50" width="60" height="60" fill="#777777" stroke="#000000" stroke-width="2"
+    stroke-linecap="square" stroke-linejoin="miter" />
+
+  <!-- 十字键 - 像素风格 -->
+  <rect x="75" y="60" width="30" height="8" fill="#333333" />
+  <rect x="75" y="92" width="30" height="8" fill="#333333" />
+  <rect x="65" y="70" width="8" height="30" fill="#333333" />
+  <rect x="97" y="70" width="8" height="30" fill="#333333" />
+  <rect x="80" y="75" width="20" height="20" fill="#333333" />
+
+  <!-- A B按钮 - 像素风格 -->
+  <rect x="190" y="70" width="20" height="20" fill="#333333" stroke="#000000" stroke-width="2" />
+  <rect x="220" y="70" width="20" height="20" fill="#333333" stroke="#000000" stroke-width="2" />
+  <text x="197" y="85" font-family="monospace" font-size="12" fill="white" font-weight="bold">A</text>
+  <text x="227" y="85" font-family="monospace" font-size="12" fill="white" font-weight="bold">B</text>
+
+  <!-- Select/Start按钮 - 像素风格 -->
+  <rect x="130" y="80" width="30" height="10" fill="#333333" />
+  <rect x="165" y="80" width="30" height="10" fill="#333333" />
+  <text x="135" y="88" font-family="monospace" font-size="6" fill="white">SELECT</text>
+  <text x="173" y="88" font-family="monospace" font-size="6" fill="white">START</text>
+
+  <!-- 品牌标志 - 像素风格 -->
+  <text x="150" y="105" font-family="monospace" font-size="12" fill="white" font-weight="bold"
+    text-anchor="middle">Nintendo</text>
+
+  <!-- 像素风格点缀 -->
+  <rect x="60" y="45" width="5" height="5" fill="#FFD700" />
+  <rect x="70" y="45" width="5" height="5" fill="#FFD700" />
+  <rect x="230" y="45" width="5" height="5" fill="#FFD700" />
+  <rect x="240" y="45" width="5" height="5" fill="#FFD700" />
+
+  <!-- 控制器接口 -->
+  <rect x="60" y="130" width="15" height="10" fill="#444444" stroke="#222222" stroke-width="1" />
+  <rect x="80" y="130" width="15" height="10" fill="#444444" stroke="#222222" stroke-width="1" />
+
+  <!-- 像素光晕 -->
+  <circle cx="150" cy="100" r="80" fill="url(#fc-glow)" opacity="0.1" />
+
+  <!-- 渐变定义 -->
+  <defs>
+    <radialGradient id="fc-glow" cx="0.5" cy="0.5" r="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0%" stop-color="#FFD700" />
+      <stop offset="100%" stop-color="#D42C2C" stop-opacity="0" />
+    </radialGradient>
+  </defs>
+</svg> 

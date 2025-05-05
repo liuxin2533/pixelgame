@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="300" height="200" viewBox="0 0 300 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- FC主机轮廓 - 更加明显 -->
+  <rect x="40" y="40" width="220" height="80" rx="0" fill="#D42C2C" fill-opacity="0.15"
+    stroke="#D42C2C" stroke-width="2" stroke-opacity="0.3" />
+  <rect x="40" y="120" width="220" height="40" rx="0" fill="#999999" fill-opacity="0.15"
+    stroke="#D42C2C" stroke-width="2" stroke-opacity="0.3" />
+
+  <!-- 卡带插口 - 红白机标志性特征 -->
+  <rect x="110" y="130" width="80" height="20" rx="0" fill="#555555" fill-opacity="0.2"
+    stroke="#D42C2C" stroke-width="1" stroke-opacity="0.3" />
+
+  <!-- 十字键 - 红白机标志性特征 -->
+  <rect x="60" y="60" width="50" height="50" rx="0" fill="#777777" fill-opacity="0.15"
+    stroke="#D42C2C" stroke-width="1" stroke-opacity="0.3" />
+  <rect x="75" y="65" width="20" height="10" rx="0" fill="#D42C2C" fill-opacity="0.2" />
+  <rect x="75" y="95" width="20" height="10" rx="0" fill="#D42C2C" fill-opacity="0.2" />
+  <rect x="65" y="75" width="10" height="20" rx="0" fill="#D42C2C" fill-opacity="0.2" />
+  <rect x="95" y="75" width="10" height="20" rx="0" fill="#D42C2C" fill-opacity="0.2" />
+  <rect x="75" y="75" width="20" height="20" rx="0" fill="#D42C2C" fill-opacity="0.2" />
+
+  <!-- A B按钮 - 红白机标志性特征 -->
+  <circle cx="190" cy="75" r="15" fill="#D42C2C" fill-opacity="0.2" stroke="#D42C2C"
+    stroke-width="1" stroke-opacity="0.3" />
+  <circle cx="230" cy="75" r="15" fill="#D42C2C" fill-opacity="0.2" stroke="#D42C2C"
+    stroke-width="1" stroke-opacity="0.3" />
+  <text x="190" y="80" font-family="'Press Start 2P', monospace" font-size="12" fill="#D42C2C"
+    fill-opacity="0.5" text-anchor="middle">A</text>
+  <text x="230" y="80" font-family="'Press Start 2P', monospace" font-size="12" fill="#D42C2C"
+    fill-opacity="0.5" text-anchor="middle">B</text>
+
+  <!-- Select/Start按钮 -->
+  <rect x="120" y="95" width="25" height="10" rx="0" fill="#D42C2C" fill-opacity="0.2"
+    stroke="#D42C2C" stroke-width="1" stroke-opacity="0.3" />
+  <rect x="155" y="95" width="25" height="10" rx="0" fill="#D42C2C" fill-opacity="0.2"
+    stroke="#D42C2C" stroke-width="1" stroke-opacity="0.3" />
+
+  <!-- 像素装饰点缀 -->
+  <rect x="45" y="45" width="5" height="5" fill="#D42C2C" fill-opacity="0.4" />
+  <rect x="250" y="45" width="5" height="5" fill="#D42C2C" fill-opacity="0.4" />
+  <rect x="45" y="150" width="5" height="5" fill="#D42C2C" fill-opacity="0.4" />
+  <rect x="250" y="150" width="5" height="5" fill="#D42C2C" fill-opacity="0.4" />
+
+  <!-- Nintendo文字 -->
+  <text x="150" y="180" font-family="'Press Start 2P', monospace" font-size="10" fill="#D42C2C"
+    fill-opacity="0.5" text-anchor="middle">NINTENDO</text>
+</svg> 

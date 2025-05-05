@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="120" height="120" viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <!-- 主体 -->
+    <rect x="10" y="30" width="100" height="60" rx="3" fill="#d0d0d0" stroke="#333333"
+        stroke-width="2" />
+
+    <!-- 顶部纹理 -->
+    <rect x="15" y="35" width="90" height="8" rx="1" fill="#b3b3b3" />
+
+    <!-- 卡带插槽 -->
+    <rect x="15" y="48" width="90" height="15" rx="2" fill="#222222" />
+    <rect x="20" y="53" width="80" height="5" rx="1" fill="#111111" />
+
+    <!-- 控制面板 -->
+    <rect x="15" y="68" width="90" height="16" rx="1" fill="#c9c9c9" />
+
+    <!-- 电源指示灯 -->
+    <circle cx="25" cy="76" r="3" fill="#ff0000" />
+
+    <!-- 电源开关 -->
+    <rect x="35" y="72" width="15" height="8" rx="1" fill="#333333" />
+
+    <!-- 重置按钮 -->
+    <rect x="60" y="72" width="15" height="8" rx="1" fill="#333333" />
+
+    <!-- 卡带弹出按钮 -->
+    <rect x="85" y="72" width="10" height="8" rx="1" fill="#333333" />
+
+    <!-- FC标志 -->
+    <text x="100" y="45" font-family="Arial" font-size="10" font-weight="bold" fill="#ff0000">FC</text>
+</svg> 
