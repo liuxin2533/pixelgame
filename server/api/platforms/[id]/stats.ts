@@ -1,4 +1,3 @@
-import { getPlatformById, getGamesByPlatform } from '../../../utils/dataService'
 import type { Game } from '~/types/global'
 
 export default defineEventHandler(async (event) => {

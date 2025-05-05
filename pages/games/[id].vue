@@ -100,10 +100,12 @@
 </template>
 
 <script lang="ts" setup>
+import type { Game } from '~/shared/types'
+
 const route = useRoute()
 const id = route.params.id as string
 
-const { data: game } = await useFetch(`/api/games/${id}`)
+const { data: game } = await useFetch<Game>(`/api/games/${id}`)
 
 function setupEmulatorJS() {
   if (!import.meta.client || !game.value) return
@@ -111,7 +113,7 @@ function setupEmulatorJS() {
   window.EJS_player = '#game'
   window.EJS_gameName = game.value.name
   window.EJS_core = game.value.emulatorSettings?.type
-  window.EJS_gameUrl = `/roms/${game.value.id}.7z`
+  window.EJS_gameUrl = `/roms/${game.value.id}.${game.value.emulatorSettings?.romType}`
   window.EJS_pathtodata = 'https://cdn.emulatorjs.org/stable/data/'
   window.EJS_backgroundImage = `"${window.location.origin + game.value.cover}"`
   window.EJS_backgroundColor = 'transparent'

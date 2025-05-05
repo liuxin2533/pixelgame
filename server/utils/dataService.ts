@@ -1,18 +1,12 @@
-import fs from 'fs'
-import path from 'path'
-import type { Game, Platform } from '~/types/global'
-
-// 数据文件路径
-const GAMES_DATA_PATH = path.resolve('./server/data/games.json')
-const PLATFORMS_DATA_PATH = path.resolve('./server/data/platforms.json')
+import type { Game, Platform } from '~/shared/types'
 
 /**
  * 读取游戏数据
  */
 export async function getGames(): Promise<Game[]> {
   try {
-    const data = await fs.promises.readFile(GAMES_DATA_PATH, 'utf8')
-    return JSON.parse(data) as Game[]
+    const data = await useStorage('assets:server').getItem(`games.json`)
+    return data as Game[]
   }
   catch (error) {
     console.error('Error loading games data:', error)
@@ -25,8 +19,8 @@ export async function getGames(): Promise<Game[]> {
  */
 export async function getPlatforms(): Promise<Platform[]> {
   try {
-    const data = await fs.promises.readFile(PLATFORMS_DATA_PATH, 'utf8')
-    return JSON.parse(data) as Platform[]
+    const data = await useStorage('assets:server').getItem(`platforms.json`)
+    return data as Platform[]
   }
   catch (error) {
     console.error('Error loading platforms data:', error)

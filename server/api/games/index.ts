@@ -1,5 +1,3 @@
-import { getGames, getGamesByGenre, getGamesByPlatform } from '../../utils/dataService'
-
 export default defineEventHandler(async (event) => {
   const query = getQuery(event)
   const { platform, genre, limit } = query
