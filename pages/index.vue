@@ -212,13 +212,13 @@
 
 <script setup lang="ts">
 defineOgImageComponent('BrandedLogo', {
-  title: 'Retro Game Paradise - Relive the Fun of Classic Games',
-  description: 'Play classic games from FC, SFC, GBA, GBC, MD and more online. No download or installation required, enjoy childhood memories directly in your browser.',
+  title: '怀旧游戏天堂 - 重温经典游戏的乐趣',
+  description: '在线畅玩FC、SFC、GBA、GBC、MD等平台的经典游戏，无需下载安装，直接在浏览器中体验童年的快乐。',
 })
 
 useSeoMeta({
-  title: 'Retro Game Paradise - Relive the Fun of Classic Games',
-  description: 'Play classic games from FC, SFC, GBA, GBC, MD and more online. No download or installation required, enjoy childhood memories directly in your browser.',
+  title: '怀旧游戏天堂 - 重温经典游戏的乐趣',
+  description: '在线畅玩FC、SFC、GBA、GBC、MD等平台的经典游戏，无需下载安装，直接在浏览器中体验童年的快乐。',
 })
 
 const { data: platforms } = await useFetch('/api/platforms')

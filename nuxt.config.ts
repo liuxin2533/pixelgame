@@ -37,6 +37,11 @@ export default defineNuxtConfig({
     enabled: process.env.NODE_ENV === 'production',
     id: 'G-HK4VN84PYQ',
   },
+  ogImage: {
+    fonts: [
+      'Noto+Sans+SC:400',
+    ],
+  },
   robots: {
     disallow: ['/api'],
   },

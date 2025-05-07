@@ -104,8 +104,8 @@ if (platformError.value) {
 }
 
 useSeoMeta({
-  title: computed(() => `${platform.value.name} - Retro Game Paradise`),
-  description: 'Play classic games from FC, SFC, GBA, GBC, MD and more online. No download or installation required, enjoy childhood memories directly in your browser.',
+  title: computed(() => `${platform.value.name} - 怀旧游戏天堂`),
+  description: '在线畅玩FC、SFC、GBA、GBC、MD等平台的经典游戏，无需下载安装，直接在浏览器中体验童年的快乐。',
 })
 </script>
 
