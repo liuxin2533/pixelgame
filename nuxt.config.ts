@@ -28,6 +28,11 @@ export default defineNuxtConfig({
     },
   },
   compatibilityDate: '2024-11-01',
+  nitro: {
+    externals: {
+      external: ['@resvg/resvg-js'],
+    },
+  },
   eslint: {
     config: {
       stylistic: true,
