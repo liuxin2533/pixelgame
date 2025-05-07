@@ -4,7 +4,7 @@
   "type": "module",
   "scripts": {
     "build": "nuxt build",
-    "build:cf": "npm_config_platform=linux npm_config_arch=x64 pnpm install && nuxt build",
+    "build:cf": "nuxt build",
     "dev": "nuxt dev",
     "generate": "nuxt generate",
     "preview": "nuxt preview",
