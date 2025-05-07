@@ -211,12 +211,12 @@
 </template>
 
 <script setup lang="ts">
-defineOgImageComponent('BrandedLogo', {
-  title: '怀旧游戏天堂 - 重温经典游戏的乐趣',
-  description: '在线畅玩FC、SFC、GBA、GBC、MD等平台的经典游戏，无需下载安装，直接在浏览器中体验童年的快乐。',
-  format: 'svg',
-  disablePngGeneration: true,
-})
+// defineOgImageComponent('BrandedLogo', {
+//   title: '怀旧游戏天堂 - 重温经典游戏的乐趣',
+//   description: '在线畅玩FC、SFC、GBA、GBC、MD等平台的经典游戏，无需下载安装，直接在浏览器中体验童年的快乐。',
+//   format: 'svg',
+//   disablePngGeneration: true,
+// })
 
 useSeoMeta({
   title: '怀旧游戏天堂 - 重温经典游戏的乐趣',
