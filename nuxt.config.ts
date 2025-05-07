@@ -38,6 +38,9 @@ export default defineNuxtConfig({
     id: 'G-HK4VN84PYQ',
   },
   ogImage: {
+    defaults: {
+      renderer: 'satori',
+    },
     fonts: [
       'Noto+Sans+SC:400',
     ],
