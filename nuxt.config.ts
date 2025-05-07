@@ -43,6 +43,7 @@ export default defineNuxtConfig({
     id: 'G-HK4VN84PYQ',
   },
   ogImage: {
+    enabled: false,
     defaults: {
       renderer: 'satori',
     },
