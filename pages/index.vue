@@ -210,18 +210,28 @@
   </div>
 </template>
 
-<script setup>
-import PlatformCard from '~/components/PlatformCard.vue'
+<script setup lang="ts">
+defineOgImageComponent('BrandedLogo', {
+  title: 'Retro Game Paradise - Relive the Fun of Classic Games',
+  description: 'Play classic games from FC, SFC, GBA, GBC, MD and more online. No download or installation required, enjoy childhood memories directly in your browser.',
+})
+
+useSeoMeta({
+  title: 'Retro Game Paradise - Relive the Fun of Classic Games',
+  description: 'Play classic games from FC, SFC, GBA, GBC, MD and more online. No download or installation required, enjoy childhood memories directly in your browser.',
+})
 
 const { data: platforms } = await useFetch('/api/platforms')
 const { data: hotGames } = await useFetch('/api/games/hot')
 // 页面元数据
-useHead({
-  title: '怀旧游戏天堂 - 重温经典游戏的乐趣',
-  meta: [
-    { name: 'description', content: '在线畅玩FC、SFC、GBA、GBC、MD等平台的经典游戏，无需下载安装，直接在浏览器中体验童年的快乐。' },
-  ],
-})
+// useHead({
+//   title: '怀旧游戏天堂 - 重温经典游戏的乐趣',
+//   meta: [
+//     { name: 'description',
+//       content: '在线畅玩FC、SFC、GBA、GBC、MD等平台的经典游戏，无需下载安装，直接在浏览器中体验童年的快乐。',
+//     },
+//   ],
+// })
 
 const formState = ref({
   email: '',
@@ -237,26 +247,6 @@ const onSubmit = () => {
 </script>
 
 <style>
-/* 自定义颜色类 */
-.bg-retro-nes {
-  background-color: var(--color-nes);
-}
-
-.bg-retro-md {
-  background-color: var(--color-md);
-}
-
-:root {
-  --color-nes: #D42C2C;
-  --color-sfc: #FFCE06;
-  --color-gba: #8800A0;
-  --color-md: #3083DC;
-  --color-retro-gold: #FFB938;
-  --color-retro-dark: #141B29;
-  --font-retro: 'VT323', monospace;
-  --font-pixel: 'Press Start 2P', cursive;
-}
-
 /* 扫描线效果 */
 .scanlines {
   position: relative;

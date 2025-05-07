@@ -103,14 +103,9 @@ if (platformError.value) {
   console.log(platformError)
 }
 
-useHead({
-  title: `${platform.value?.name} 游戏平台 - 怀旧游戏天堂`,
-  meta: [
-    {
-      name: 'description',
-      content: platform.value?.description,
-    },
-  ],
+useSeoMeta({
+  title: computed(() => `${platform.value.name} - Retro Game Paradise`),
+  description: 'Play classic games from FC, SFC, GBA, GBC, MD and more online. No download or installation required, enjoy childhood memories directly in your browser.',
 })
 </script>
 

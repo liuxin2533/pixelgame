@@ -157,6 +157,11 @@ onMounted(async () => {
   }
 })
 
+useSeoMeta({
+  title: computed(() => `${game.value.name} - Retro Game Paradise`),
+  description: 'Play classic games from FC, SFC, GBA, GBC, MD and more online. No download or installation required, enjoy childhood memories directly in your browser.',
+})
+
 // 页面元数据
 // useHead({
 //   title: computed(() => `${gameData.value.title || '游戏'} - 怀旧游戏天堂`),

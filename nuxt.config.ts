@@ -7,10 +7,15 @@ export default defineNuxtConfig({
     '@nuxt/image',
     '@nuxt/scripts',
     '@nuxt/ui',
-    '@nuxt/content',
+    'nuxt-gtag',
+    '@nuxtjs/seo',
   ],
-  devtools: { enabled: false },
+  devtools: { enabled: true },
   css: ['~/assets/css/tailwind.css'],
+  site: {
+    url: 'https://pixelgame.vip',
+    name: 'Pixel Game | FC SFC GBA GBC',
+  },
   appConfig: {
     ui: {
       colors: {
@@ -27,5 +32,20 @@ export default defineNuxtConfig({
     config: {
       stylistic: true,
     },
+  },
+  gtag: {
+    enabled: process.env.NODE_ENV === 'production',
+    id: 'G-HK4VN84PYQ',
+  },
+  robots: {
+    disallow: ['/api'],
+  },
+  seo: {
+  },
+  sitemap: {
+    sitemapName: 'sitemap.xml',
+    sources: [
+      '/api/__sitemap__/urls',
+    ],
   },
 })

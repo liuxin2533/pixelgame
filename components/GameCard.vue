@@ -26,7 +26,7 @@ const props = defineProps<{
 }>()
 
 const url = computed(() => {
-  return `/games/${encodeURI(props.game.id)}`
+  return `/games/${encodeURI(props.game.id.replace(/\s/g, '-').toLowerCase())}`
 })
 </script>
 

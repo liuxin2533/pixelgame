@@ -5,8 +5,8 @@ import type { Game, Platform } from '~/shared/types'
  */
 export async function getGames(): Promise<Game[]> {
   try {
-    const data = await useStorage('assets:server').getItem(`games.json`)
-    return data as Game[]
+    const data = await useStorage('assets:server').getItem(`games.json`) as Game[]
+    return data
   }
   catch (error) {
     console.error('Error loading games data:', error)
@@ -34,7 +34,7 @@ export async function getPlatforms(): Promise<Platform[]> {
 export async function getGameById(id: string): Promise<Game | null> {
   const games = await getGames()
   const decodedId = decodeURI(id)
-  return games.find(game => game.id === decodedId) || null
+  return games.find(game => game.id.replace(/\s/g, '-').toLowerCase() === decodedId.toLowerCase()) || null
 }
 
 /**
