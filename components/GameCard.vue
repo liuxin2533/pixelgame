@@ -12,14 +12,14 @@
     </div>
     <div class="p-3 bg-retro-800">
       <h3 class="text-xl  line-clamp-2">
-        {{ game.name }}
+        {{ game.name_i18n['zh-CN'] }}
       </h3>
     </div>
   </NuxtLink>
 </template>
 
 <script lang="ts" setup>
-import type { Game } from '~/types/global'
+import type { Game } from '~/shared/types'
 
 const props = defineProps<{
   game: Game

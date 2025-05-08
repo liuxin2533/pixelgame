@@ -2,7 +2,9 @@
 export interface Game {
   id: string
   name: string
+  name_i18n: Record<string, string>
   description: string
+  description_i18n: Record<string, string>
   cover: string
   screenshots: string[]
   releaseYear: number

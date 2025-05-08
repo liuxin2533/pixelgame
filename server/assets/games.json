@@ -5,15 +5,19 @@
     "name_i18n": {
       "zh-CN": "(美版) 魂斗罗"
     },
-    "description": "",
+    "description": "Contra is an iconic run and gun action game released by Konami in 1987. Players control elite soldiers Bill and Lance as they battle against the alien organization Red Falcon. The game features various weapon powerups, challenging boss fights, and both side-scrolling and pseudo-3D perspective levels. Known for its high difficulty and cooperative gameplay, Contra has become one of the most influential action games of the 8-bit era.",
+    "description_i18n": {
+      "zh-CN": "《魂斗罗》是1987年科乐美(Konami)发行的经典横版射击游戏。玩家控制精英士兵比尔和兰斯与外星组织'赤色猎鹰'作战。游戏特色包括各种武器强化道具、具有挑战性的Boss战以及横版卷轴和伪3D视角关卡。以高难度和双人合作模式著称，《魂斗罗》已成为8位机时代最具影响力的动作游戏之一。"
+    },
     "cover": "/images/games/(U) Contra-4-4-2025.png",
     "screenshots": [],
-    "releaseYear": null,
-    "developer": "",
-    "publisher": "",
+    "releaseYear": 1988,
+    "developer": "Konami",
+    "publisher": "Konami",
     "genres": [
-      "Platform",
-      "Action"
+      "射击",
+      "动作",
+      "横版闯关"
     ],
     "platforms": [
       "nes"
@@ -36,15 +40,19 @@
     "name_i18n": {
       "zh-CN": "(美版) 魂斗罗力量"
     },
-    "description": "",
+    "description": "Contra Force is a spin-off in the Contra series released exclusively in North America in 1992. Unlike the alien invasion theme of other Contra games, this title focuses on an elite task force called 'Blue Group' fighting against a terrorist organization. The game features four playable characters, each with unique weapons and abilities. Players can switch between characters at any time and use a unique power-up system. With side-scrolling and top-down levels, Contra Force offers diverse gameplay despite being slower-paced than other entries in the series.",
+    "description_i18n": {
+      "zh-CN": "《魂斗罗力量》是1992年在北美独家发行的《魂斗罗》系列衍生作品。与系列其他作品的外星入侵主题不同，本作聚焦于一支名为'蓝色小组'的精英特种部队对抗恐怖组织。游戏提供四个可选角色，每个角色都有独特的武器和能力。玩家可以随时切换角色并使用独特的强化系统。通过横版卷轴和俯视视角关卡，《魂斗罗力量》提供了多样化的游戏体验，尽管其节奏比系列其他作品更慢。"
+    },
     "cover": "/images/games/(U) Contra Force-4-4-2025.png",
     "screenshots": [],
-    "releaseYear": null,
-    "developer": "",
-    "publisher": "",
+    "releaseYear": 1992,
+    "developer": "Konami",
+    "publisher": "Konami",
     "genres": [
-      "Platform",
-      "Action"
+      "射击",
+      "动作",
+      "横版闯关"
     ],
     "platforms": [
       "nes"
@@ -66,15 +74,18 @@
     "name_i18n": {
       "zh-CN": "(欧版) 忍者神龟格斗"
     },
-    "description": "",
+    "description": "Teenage Mutant Hero Turtles: Tournament Fighters (known as Teenage Mutant Ninja Turtles in the US) is a competitive fighting game released for the NES in 1994. This game adapts the popular TMNT franchise into a traditional one-on-one fighting format. Players can choose from several characters from the TMNT universe, including all four turtles, each with unique special moves and fighting styles. The European version features slightly different content due to censorship standards. Despite the technical limitations of the NES, the game offers surprisingly fluid animation and responsive controls compared to other fighting games on the platform.",
+    "description_i18n": {
+      "zh-CN": "《忍者神龟：格斗大赛》是1994年为NES发行的竞技格斗游戏（欧洲版名为《Teenage Mutant Hero Turtles》）。本作将流行的忍者神龟系列改编为传统的一对一格斗游戏形式。玩家可以从忍者神龟宇宙中选择多个角色，包括四只神龟，每个角色都有独特的特殊技能和战斗风格。欧洲版由于审查标准而内容略有不同。尽管NES技术有限，相比平台上的其他格斗游戏，本作提供了令人惊讶的流畅动画和响应灵敏的控制。"
+    },
     "cover": "/images/games/Teenage Mutant Hero Turtles - Tournament Fighters (E) []-4-4-2025.png",
     "screenshots": [],
-    "releaseYear": null,
-    "developer": "",
-    "publisher": "",
+    "releaseYear": 1994,
+    "developer": "Konami",
+    "publisher": "Konami",
     "genres": [
-      "Platform",
-      "Action"
+      "格斗",
+      "动作"
     ],
     "platforms": [
       "nes"
@@ -97,15 +108,18 @@
     "name_i18n": {
       "zh-CN": "(日版) 重装机兵"
     },
-    "description": "",
+    "description": "Metal Max is a post-apocalyptic role-playing game developed by Crea-Tech and published by Data East in 1991. Set in a world devastated by a nuclear war and a rogue AI called 'Noah', players control a tank hunter who travels the wasteland with customizable tanks and companions. The game features an open-world structure unusual for its time, allowing players to freely explore and take on bounty hunting missions. Metal Max innovatively combines vehicle combat with traditional RPG elements, including tank customization, character development, and turn-based battles. This Japanese version established the foundation for what would become a long-running series in Japan.",
+    "description_i18n": {
+      "zh-CN": "《重装机兵》是1991年由Crea-Tech开发、Data East发行的后启示录角色扮演游戏。游戏设定在一个被核战争和名为'诺亚'的失控AI摧毁的世界中，玩家控制一名坦克猎人，与可自定义的坦克和伙伴一起穿越荒原。游戏以当时罕见的开放世界结构为特色，允许玩家自由探索并承接赏金猎人任务。《重装机兵》创新地将载具战斗与传统RPG元素相结合，包括坦克定制、角色发展和回合制战斗。这个日本版奠定了后来在日本成为长寿系列的基础。"
+    },
     "cover": "/images/games/Metal Max-4-4-2025.png",
     "screenshots": [],
-    "releaseYear": null,
-    "developer": "",
-    "publisher": "",
+    "releaseYear": 1991,
+    "developer": "Crea-Tech",
+    "publisher": "Data East",
     "genres": [
-      "Platform",
-      "Action"
+      "角色扮演",
+      "战略"
     ],
     "platforms": [
       "nes"
@@ -127,15 +141,18 @@
     "name_i18n": {
       "zh-CN": "(汉化) 重装机兵"
     },
-    "description": "",
+    "description": "This is the Chinese fan-translated version of Metal Max, a post-apocalyptic role-playing game originally released in 1991. The game takes place in a world devastated by a nuclear war and ruled by a rogue supercomputer. Players control a group of tank hunters who travel across the wasteland, completing bounty missions and fighting against monsters and machines. The translation allows Chinese-speaking players to fully enjoy the game's unique blend of vehicle combat and traditional RPG elements, including its open-world exploration, tank customization system, and non-linear progression. The Chinese version preserves all the gameplay mechanics while making the story accessible to a new audience.",
+    "description_i18n": {
+      "zh-CN": "这是《重装机兵》的中文粉丝翻译版，原作是1991年发行的后启示录角色扮演游戏。游戏发生在一个被核战争摧毁并由失控超级计算机统治的世界中。玩家控制一群坦克猎人穿越荒原，完成赏金任务，与怪物和机器作战。这个翻译版使中文玩家能够充分享受游戏独特的载具战斗与传统RPG元素的结合，包括其开放世界探索、坦克定制系统和非线性进程。中文版保留了所有的游戏机制，同时使故事情节对新受众更加易于理解。"
+    },
     "cover": "/images/games/Metal Max-4-4-2025.png",
     "screenshots": [],
-    "releaseYear": null,
-    "developer": "",
-    "publisher": "",
+    "releaseYear": 1991,
+    "developer": "Crea-Tech",
+    "publisher": "Data East",
     "genres": [
-      "Platform",
-      "Action"
+      "角色扮演",
+      "战略"
     ],
     "platforms": [
       "nes"
@@ -158,15 +175,18 @@
     "name_i18n": {
       "zh-CN": "(汉化+神装无限G) 重装机兵"
     },
-    "description": "",
+    "description": "This is a modified Chinese version of Metal Max with extensive gameplay enhancements. The hack provides players with 9,999,999 money, all characters unlocked from the start, and heavily upgraded tanks and equipment. While maintaining the core post-apocalyptic story and world exploration elements of the original game, this modified version allows players to experience the game without grinding for resources or struggling with difficult battles. The hack essentially transforms the challenging RPG into a power fantasy, letting players focus on exploration and story rather than resource management. It's particularly popular among casual players who want to experience the game's unique setting without its traditional difficulty.",
+    "description_i18n": {
+      "zh-CN": "这是一个经过大幅度游戏性增强的《重装机兵》中文修改版。这个hack版本为玩家提供了9,999,999金钱，从游戏开始就解锁所有角色，并配备了强力升级的坦克和装备。在保持原作的后启示录故事和世界探索元素的同时，这个修改版让玩家无需为资源而苦苦挣扎或面对困难的战斗。该hack本质上将这款具有挑战性的RPG转变为一种力量幻想，让玩家可以专注于探索和故事，而不是资源管理。它在想要体验游戏独特设定而不想应对传统难度的休闲玩家中特别受欢迎。"
+    },
     "cover": "/images/games/Metal Max-4-4-2025.png",
     "screenshots": [],
-    "releaseYear": null,
-    "developer": "",
-    "publisher": "",
+    "releaseYear": 1991,
+    "developer": "Crea-Tech",
+    "publisher": "Data East",
     "genres": [
-      "Platform",
-      "Action"
+      "角色扮演",
+      "战略"
     ],
     "platforms": [
       "nes"
@@ -188,15 +208,18 @@
     "name_i18n": {
       "zh-CN": "(日版) 热血新纪录"
     },
-    "description": "",
+    "description": "Bikkuri Nekketsu Shin Kiroku! - Harukanaru Kin Medal is a sports competition game developed by Technōs Japan and released in 1992. Part of the Kunio-kun series, the game features Olympic-style events with a humorous, over-the-top approach. Players compete in various athletic challenges including hammer throw, hurdles, swimming, and fighting events. The game distinguishes itself with unique mechanics for each event and the ability to use special moves and even attack opponents during competitions. With its distinctive character designs and cooperative multiplayer options, this title remains a beloved entry in the Kunio-kun franchise, though it was only officially released in Japan.",
+    "description_i18n": {
+      "zh-CN": "《惊奇热血新纪录！远方的金牌》是由Technōs Japan开发并于1992年发行的体育竞技游戏。作为国夫君系列的一部分，游戏以幽默、夸张的方式呈现奥运会风格的比赛。玩家在锤子投掷、跨栏、游泳和格斗等各种体育挑战中竞争。游戏的独特之处在于每个项目都有不同的机制，以及在比赛中使用特殊技能甚至攻击对手的能力。凭借其独特的角色设计和合作多人游戏选项，这部作品仍然是国夫君系列中备受喜爱的作品，尽管它只在日本正式发行。"
+    },
     "cover": "/images/games/(J) Bikkuri Nekketsu Shin Kiroku - Harukanaru Kin Medal-4-5-2025.png",
     "screenshots": [],
-    "releaseYear": null,
-    "developer": "",
-    "publisher": "",
+    "releaseYear": 1992,
+    "developer": "Technōs Japan",
+    "publisher": "Technōs Japan",
     "genres": [
-      "Platform",
-      "Action"
+      "运动",
+      "动作"
     ],
     "platforms": [
       "nes"
@@ -219,15 +242,18 @@
     "name_i18n": {
       "zh-CN": "(美版) 热血新纪录"
     },
-    "description": "",
+    "description": "Crash 'n the Boys: Street Challenge is the localized North American version of Bikkuri Nekketsu Shin Kiroku, released in 1992. This competitive sports game features five unusual events: 400-meter hurdles, hammer throw, swimming, roof-top jumping, and fighting scene. The game's unique selling point is its combat-oriented approach to sports, allowing players to attack opponents during events to gain advantages. Players can earn money after winning events to purchase items and upgrades that enhance their abilities. With four-player support through controller swapping, distinctive character designs, and RPG elements, Street Challenge offers a unique combination of sports and fighting game mechanics rarely seen in other titles of its era.",
+    "description_i18n": {
+      "zh-CN": "《碰撞男孩：街头挑战》是《惊奇热血新纪录》的北美本地化版本，于1992年发行。这款竞技体育游戏包含五种不寻常的比赛项目：400米跨栏、锤子投掷、游泳、屋顶跳跃和格斗场景。游戏的独特卖点是其战斗导向的体育方式，允许玩家在比赛中攻击对手以获得优势。玩家可以在赢得比赛后获得金钱，用来购买增强能力的物品和升级。通过控制器交换支持四人游戏，以及独特的角色设计和RPG元素，《街头挑战》提供了在同时代其他游戏中罕见的体育和格斗游戏机制的独特组合。"
+    },
     "cover": "/images/games/(U) Crash n the Boys - Street Challenge-4-5-2025.png",
     "screenshots": [],
-    "releaseYear": null,
-    "developer": "",
-    "publisher": "",
+    "releaseYear": 1992,
+    "developer": "Technōs Japan",
+    "publisher": "American Technōs",
     "genres": [
-      "Platform",
-      "Action"
+      "运动",
+      "动作"
     ],
     "platforms": [
       "nes"
@@ -249,15 +275,19 @@
     "name_i18n": {
       "zh-CN": "(日版) 热血物语"
     },
-    "description": "",
+    "description": "Downtown - Nekketsu Monogatari is a pioneering action RPG developed by Technōs Japan and released in 1989. This original Japanese version of the game centers on high school student Kunio as he fights rival gangs across town to help his friend Hiroshi. Players explore various neighborhoods, battling enemy gangs in real-time combat that includes punches, kicks, weapons, and special techniques. The game features RPG elements like character stats, equipment, and shops where players can buy items and food to restore health. With its two-player cooperative mode and blend of beat 'em up action with role-playing elements, Downtown established a foundation for the popular Kunio-kun series and influenced many subsequent action RPGs.",
+    "description_i18n": {
+      "zh-CN": "《下町热血物语》是由Technōs Japan开发并于1989年发行的开创性动作角色扮演游戏。这个原版日本游戏以高中生国夫为中心，他为了帮助朋友广志而与城镇各地的敌对帮派作战。玩家探索各种街区，与敌对帮派进行包含拳打、脚踢、武器和特殊技巧的实时战斗。游戏具有角色属性、装备和商店等RPG元素，玩家可以在商店购买物品和食物来恢复健康。凭借其双人合作模式以及动作与角色扮演元素的融合，《下町》为广受欢迎的国夫君系列奠定了基础，并影响了许多后续的动作RPG。"
+    },
     "cover": "/images/games/(J) Downtown - Nekketsu Monogatari-4-5-2025.png",
     "screenshots": [],
-    "releaseYear": null,
-    "developer": "",
-    "publisher": "",
+    "releaseYear": 1989,
+    "developer": "Technōs Japan",
+    "publisher": "Technōs Japan",
     "genres": [
-      "Platform",
-      "Action"
+      "动作",
+      "格斗",
+      "角色扮演"
     ],
     "platforms": [
       "nes"
@@ -279,15 +309,19 @@
     "name_i18n": {
       "zh-CN": "(美版) 热血物语"
     },
-    "description": "",
+    "description": "River City Ransom is the North American localization of Downtown - Nekketsu Monogatari, released in 1990. The game follows high school students Alex and Ryan (renamed from Kunio and Riki) as they fight through gangs to rescue Ryan's girlfriend from Slick, the leader of River City High. This action RPG combines side-scrolling beat 'em up gameplay with role-playing elements like character stats, shops, and equipment. Players can learn new fighting moves, buy items to increase stats, and use environmental objects as weapons. With its open world design, humorous localization featuring distinctive enemy quotes, and two-player cooperative play, River City Ransom has gained cult classic status and influenced numerous games that blend action with RPG mechanics.",
+    "description_i18n": {
+      "zh-CN": "《河城市赎金》是《下町热血物语》的北美本地化版本，于1990年发行。游戏讲述高中生亚历克斯和瑞安（由国夫和力改名）为了从河城高中的头目斯利克手中救出瑞安的女友而与帮派作战的故事。这款动作RPG将横向卷轴打斗游戏玩法与角色属性、商店和装备等角色扮演元素结合在一起。玩家可以学习新的格斗技巧，购买物品来提高属性，并使用环境物体作为武器。凭借其开放世界设计、幽默的本地化（特色是敌人的独特台词）以及双人合作游戏模式，《河城市赎金》获得了经典崇拜地位，并影响了众多融合动作与RPG机制的游戏。"
+    },
     "cover": "/images/games/(U) River City Ransom-4-5-2025.png",
     "screenshots": [],
-    "releaseYear": null,
-    "developer": "",
-    "publisher": "",
+    "releaseYear": 1990,
+    "developer": "Technōs Japan",
+    "publisher": "American Technōs",
     "genres": [
-      "Platform",
-      "Action"
+      "动作",
+      "格斗",
+      "角色扮演"
     ],
     "platforms": [
       "nes"
@@ -309,15 +343,19 @@
     "name_i18n": {
       "zh-CN": "(欧版) 热血物语"
     },
-    "description": "",
+    "description": "Street Gangs is the European version of Downtown - Nekketsu Monogatari (known as River City Ransom in North America), released in 1990. The game follows two high school students as they battle their way through various gangs to rescue a kidnapped girlfriend. This European release maintains the core gameplay of the Japanese original, blending side-scrolling beat 'em up action with RPG elements such as character progression, shops, and equipment. Players can improve their stats by purchasing food and items, learn new fighting techniques, and use environmental objects as weapons. The European version features some localization differences from both the Japanese and North American releases while preserving the innovative gameplay that made the title a cult classic.",
+    "description_i18n": {
+      "zh-CN": "《街头帮派》是《下町热血物语》的欧洲版本（北美版名为《河城市赎金》），于1990年发行。游戏讲述两名高中生为了解救被绑架的女友而与各种帮派战斗的故事。这个欧洲版保留了日本原版的核心玩法，将横版卷轴格斗动作与角色成长、商店和装备等RPG元素融为一体。玩家可以通过购买食物和物品来提升属性，学习新的格斗技巧，并使用环境物体作为武器。欧洲版与日版和北美版相比有一些本地化差异，同时保留了使这款游戏成为经典的创新游戏玩法。"
+    },
     "cover": "/images/games/(E) Street Gangs-4-5-2025.png",
     "screenshots": [],
-    "releaseYear": null,
-    "developer": "",
-    "publisher": "",
+    "releaseYear": 1991,
+    "developer": "Technōs Japan",
+    "publisher": "Infogrames",
     "genres": [
-      "Platform",
-      "Action"
+      "动作",
+      "格斗",
+      "角色扮演"
     ],
     "platforms": [
       "nes"
@@ -339,15 +377,18 @@
     "name_i18n": {
       "zh-CN": "(日版) 冒险岛"
     },
-    "description": "",
+    "description": "Takahashi Meijin no Bouken Shima (Master Takahashi's Adventure Island) is a side-scrolling platformer released in Japan in 1986. The game stars Takahashi Meijin, a character based on a real-life Hudson Soft employee famous for his rapid button-pressing ability. Players guide Takahashi through tropical island levels, avoiding obstacles and enemies while collecting fruit to maintain health. The game features a constantly depleting health meter that acts as a time limit, adding urgency to the gameplay. With its challenging difficulty, varied levels including bonus stages, and distinctive egg-cracking mechanic to find power-ups, the game became a hallmark title for the Famicom/NES and spawned a successful series that continued across multiple platforms.",
+    "description_i18n": {
+      "zh-CN": "《高桥名人的冒险岛》是1986年在日本发行的横版平台游戏。游戏主角高桥名人是以一位真实的Hudson Soft员工为原型创建的，该员工以快速按键能力闻名。玩家引导高桥名人穿越热带岛屿关卡，避开障碍物和敌人，同时收集水果来维持健康值。游戏特色是不断减少的健康计量表，它作为时间限制，为游戏增加了紧迫感。凭借其具有挑战性的难度、多样化的关卡（包括奖励阶段）以及独特的破蛋机制来寻找强化道具，该游戏成为红白机/NES的标志性作品，并开创了一个后续在多个平台上延续的成功系列。"
+    },
     "cover": "/images/games/(J) Takahashi Meijin no Bouken Shima (J)-4-5-2025.png",
     "screenshots": [],
-    "releaseYear": null,
-    "developer": "",
-    "publisher": "",
+    "releaseYear": 1986,
+    "developer": "Hudson Soft",
+    "publisher": "Hudson Soft",
     "genres": [
-      "Platform",
-      "Action"
+      "横版闯关",
+      "动作"
     ],
     "platforms": [
       "nes"
@@ -370,15 +411,18 @@
     "name_i18n": {
       "zh-CN": "(美版) 冒险岛"
     },
-    "description": "",
+    "description": "Hudson's Adventure Island is the North American version of Takahashi Meijin no Bouken Shima, released in 1988. In this localization, the protagonist was renamed Master Higgins, a jungle adventurer who must rescue his girlfriend Tina from the Evil Witch Doctor. The gameplay revolves around running, jumping, and throwing axes through tropical island levels while collecting fruit to maintain a constantly depleting health meter. Players must avoid various enemies including snakes, bees, and boulders while discovering hidden eggs that contain helpful items like skateboards that increase speed. Known for its challenging difficulty and distinctive charm, Adventure Island became one of the more recognizable platforming franchises on the NES despite being initially inspired by Sega's Wonder Boy.",
+    "description_i18n": {
+      "zh-CN": "《Hudson的冒险岛》是《高桥名人的冒险岛》的北美版本，于1988年发行。在这个本地化版本中，主角被重命名为希金斯大师，一位丛林冒险家，他必须从邪恶巫师手中救出他的女友蒂娜。游戏玩法围绕着在热带岛屿关卡中奔跑、跳跃和投掷斧头，同时收集水果以维持不断减少的健康计量表。玩家必须避开各种敌人，包括蛇、蜜蜂和巨石，同时发现隐藏的蛋，其中包含有用的物品，如增加速度的滑板。以其具有挑战性的难度和独特的魅力著称，《冒险岛》成为NES上最受认可的平台游戏系列之一，尽管它最初是受到世嘉的《Wonder Boy》启发而创作的。"
+    },
     "cover": "/images/games/(U) Hudsons Adventure Island-4-5-2025.png",
     "screenshots": [],
-    "releaseYear": null,
-    "developer": "",
-    "publisher": "",
+    "releaseYear": 1987,
+    "developer": "Hudson Soft",
+    "publisher": "Hudson Soft",
     "genres": [
-      "Platform",
-      "Action"
+      "横版闯关",
+      "动作"
     ],
     "platforms": [
       "nes"
@@ -400,15 +444,18 @@
     "name_i18n": {
       "zh-CN": "(日版) 冒险岛2"
     },
-    "description": "",
+    "description": "Takahashi Meijin no Bouken Shima II is the Japanese sequel to the original Adventure Island, released in 1991. This follow-up expands on the formula with improved graphics and new gameplay elements. The most significant addition is the dinosaur companions that Takahashi can ride, each with unique abilities: Camptosaurus can dash, Pteranodon can fly, and Elasmosaurus can swim underwater. The game retains the core mechanics of collecting fruit to maintain health while navigating challenging platforming sequences, but adds eight distinct worlds with their own themes and hazards. With an expanded weapon system and hidden areas to discover, this sequel is widely considered a significant improvement over its predecessor in both variety and level design.",
+    "description_i18n": {
+      "zh-CN": "《高桥名人的冒险岛2》是原版冒险岛的日本续作，于1991年发行。这部续作在原有基础上扩展了游戏公式，改进了图像并新增了游戏元素。最显著的新增内容是高桥能够骑乘的恐龙伙伴，每种恐龙都有独特能力：肿头龙可以冲刺，翼龙可以飞行，而鱼龙可以在水下游泳。游戏保留了收集水果维持健康值的核心机制，同时在充满挑战的平台跳跃序列中导航，但增加了八个不同的世界，每个世界都有自己的主题和危险。凭借扩展的武器系统和隐藏区域，这部续作在多样性和关卡设计方面被广泛认为比前作有了显著改进。"
+    },
     "cover": "/images/games/(J) Takahashi Meijin no Bouken Shima II-4-5-2025.png",
     "screenshots": [],
-    "releaseYear": null,
-    "developer": "",
-    "publisher": "",
+    "releaseYear": 1991,
+    "developer": "Hudson Soft",
+    "publisher": "Hudson Soft",
     "genres": [
-      "Platform",
-      "Action"
+      "横版闯关",
+      "动作"
     ],
     "platforms": [
       "nes"
@@ -430,15 +477,18 @@
     "name_i18n": {
       "zh-CN": "(美版) 冒险岛2"
     },
-    "description": "",
+    "description": "Hudson's Adventure Island II is the North American version of Takahashi Meijin no Bouken Shima II, released in 1991. In this sequel, Master Higgins must rescue his girlfriend Tina and her sisters who have been kidnapped by an evil witch doctor. The game introduces dinosaur companions that players can ride, each with special abilities: a blue Camptosaurus that can dash, a red Pteranodon that can fly, and a green Elasmosaurus that can swim underwater. The gameplay maintains the fruit-collecting health system while adding an overworld map with multiple stages per world and hidden areas. With improved graphics, more diverse environments across eight worlds, and a wider variety of weapons including boomerangs and fireballs, Adventure Island II is considered one of the best platformers in the NES library.",
+    "description_i18n": {
+      "zh-CN": "《Hudson的冒险岛2》是《高桥名人的冒险岛2》的北美版本，于1991年发行。在这部续作中，希金斯大师必须救出他的女友蒂娜和她的姐妹们，她们被邪恶的巫医绑架。游戏引入了玩家可以骑乘的恐龙伙伴，每种恐龙都有特殊能力：蓝色肿头龙可以冲刺，红色翼龙可以飞行，绿色鱼龙可以在水下游泳。游戏保持了收集水果维持健康的系统，同时添加了一个世界地图，每个世界有多个关卡和隐藏区域。凭借改进的图像，八个世界中更多样化的环境，以及更广泛的武器种类（包括回旋镖和火球），《冒险岛2》被认为是NES游戏库中最出色的平台游戏之一。"
+    },
     "cover": "/images/games/(U) Hudsons Adventure Island II-4-5-2025.png",
     "screenshots": [],
-    "releaseYear": null,
-    "developer": "",
-    "publisher": "",
+    "releaseYear": 1990,
+    "developer": "Hudson Soft",
+    "publisher": "Hudson Soft",
     "genres": [
-      "Platform",
-      "Action"
+      "横版闯关",
+      "动作"
     ],
     "platforms": [
       "nes"
@@ -460,15 +510,18 @@
     "name_i18n": {
       "zh-CN": "(日版) 冒险岛3"
     },
-    "description": "",
+    "description": "Takahashi Meijin no Bouken Shima III is the third installment in the Adventure Island series, released in Japan in 1992. In this sequel, Takahashi must rescue his girlfriend Tina who has been kidnapped by the evil Baron Bronsky. The game builds upon its predecessor by refining the dinosaur companion system and adding new abilities. Players can now store collected eggs and choose which dinosaur to hatch when needed, adding a strategic element to gameplay. The game features a more non-linear world map with branching paths, allowing players to choose their route through the game's eight worlds. With improved graphics that push the Famicom's capabilities, more varied level designs including vertical stages, and enhanced boss battles, this third entry represents the pinnacle of the series on 8-bit hardware.",
+    "description_i18n": {
+      "zh-CN": "《高桥名人的冒险岛3》是冒险岛系列的第三部作品，于1992年在日本发行。在这部续作中，高桥必须救出被邪恶的布朗斯基男爵绑架的女友蒂娜。游戏在前作基础上进一步完善了恐龙伙伴系统并添加了新的能力。玩家现在可以存储收集到的蛋，并在需要时选择孵化哪种恐龙，为游戏玩法增加了战略元素。游戏特点是更加非线性的世界地图，具有分支路径，允许玩家选择通过游戏八个世界的路线。凭借推动红白机性能极限的改进图像，更多样化的关卡设计（包括垂直关卡）和增强的Boss战，这第三部作品代表了该系列在8位硬件上的巅峰。"
+    },
     "cover": "/images/games/(J) Takahashi Meijin no Bouken Shima III-4-5-2025.png",
     "screenshots": [],
-    "releaseYear": null,
-    "developer": "",
-    "publisher": "",
+    "releaseYear": 1992,
+    "developer": "Hudson Soft",
+    "publisher": "Hudson Soft",
     "genres": [
-      "Platform",
-      "Action"
+      "横版闯关",
+      "动作"
     ],
     "platforms": [
       "nes"
@@ -490,15 +543,18 @@
     "name_i18n": {
       "zh-CN": "(美版) 冒险岛3"
     },
-    "description": "",
+    "description": "Hudson's Adventure Island III is the North American version of the third entry in the Adventure Island series, released in 1992. This time, Master Higgins must rescue his girlfriend Tina from the clutches of the evil Baron Bronsky. Building on the foundation of Adventure Island II, this sequel refines the dinosaur companion system by allowing players to store multiple eggs and choose which to hatch when specific abilities are needed. The game features a non-linear world map with branching paths, giving players more choice in progression. With its enhanced graphics, more diverse power-ups, varied level design including underwater and vertical climbing stages, and challenging boss encounters, Adventure Island III is often regarded as the most polished entry in the NES trilogy and a showcase of late-era NES game design.",
+    "description_i18n": {
+      "zh-CN": "《Hudson的冒险岛3》是冒险岛系列第三部作品的北美版本，于1992年发行。这一次，希金斯大师必须从邪恶的布朗斯基男爵魔爪中救出他的女友蒂娜。在《冒险岛2》的基础上，这部续作完善了恐龙伙伴系统，允许玩家存储多个蛋，并在需要特定能力时选择孵化哪一个。游戏特点是具有分支路径的非线性世界地图，让玩家在游戏进程中有更多选择。凭借其增强的图像，更多样化的强化道具，多变的关卡设计（包括水下和垂直攀爬关卡），以及具有挑战性的Boss战，《冒险岛3》通常被认为是NES三部曲中最精致的作品，也是NES后期游戏设计的典范。"
+    },
     "cover": "/images/games/(U) Hudsons Adventure Island III-4-5-2025.png",
     "screenshots": [],
-    "releaseYear": null,
-    "developer": "",
-    "publisher": "",
+    "releaseYear": 1992,
+    "developer": "Hudson Soft",
+    "publisher": "Hudson Soft",
     "genres": [
-      "Platform",
-      "Action"
+      "横版闯关",
+      "动作"
     ],
     "platforms": [
       "nes"
@@ -520,15 +576,18 @@
     "name_i18n": {
       "zh-CN": "(日版) 冒险岛4"
     },
-    "description": "",
+    "description": "Takahashi Meijin no Bouken Shima IV is the fourth and final Adventure Island title for the Famicom/NES, released exclusively in Japan in 1994. This entry represents a significant departure from previous games in the series, adopting a Metroidvania-style approach with interconnected areas rather than linear stages. Takahashi can now backtrack to previous areas using newly acquired abilities and dinosaur companions. The game introduces a health bar system that replaces the constantly depleting meter of previous titles, allowing for more exploration-focused gameplay. With its advanced graphics pushing the limits of the 8-bit hardware, varied environments, hidden items, and ability upgrades, Adventure Island IV showcases the evolution of the series and stands as one of the more ambitious late-era Famicom titles.",
+    "description_i18n": {
+      "zh-CN": "《高桥名人的冒险岛4》是红白机/NES平台上的第四部也是最后一部冒险岛游戏，于1994年仅在日本发行。这部作品与系列前作有显著不同，采用了类银河恶魔城风格的设计，具有相互连接的区域而非线性关卡。高桥现在可以利用新获得的能力和恐龙伙伴回溯到之前的区域。游戏引入了健康条系统，取代了前作中不断减少的计量表，使游戏玩法更加注重探索。凭借其推动8位硬件极限的先进图像，多样化的环境，隐藏物品和能力升级，《冒险岛4》展示了系列的演变，是红白机晚期最具野心的作品之一。"
+    },
     "cover": "/images/games/(J) Takahashi Meijin no Bouken Shima IV-4-5-2025.png",
     "screenshots": [],
-    "releaseYear": null,
-    "developer": "",
-    "publisher": "",
+    "releaseYear": 1994,
+    "developer": "Hudson Soft",
+    "publisher": "Hudson Soft",
     "genres": [
-      "Platform",
-      "Action"
+      "横版闯关",
+      "动作"
     ],
     "platforms": [
       "nes"
@@ -550,15 +609,18 @@
     "name_i18n": {
       "zh-CN": "(日版) 超级马里奥赛车"
     },
-    "description": "",
+    "description": "Super Mario Kart is a revolutionary racing game developed and published by Nintendo for the Super Nintendo Entertainment System in 1992. The Japanese version was the original release of what would become one of gaming's most influential franchises. Players can choose from eight characters from the Mario universe, each with unique attributes affecting speed, acceleration, and handling. The game features two primary modes: Grand Prix (racing against computer-controlled opponents) and Battle Mode (competitive multiplayer). Using the SNES's Mode 7 graphics capabilities to create a pseudo-3D racing environment, Super Mario Kart established the kart racing genre with its combination of accessible gameplay, power-up items, and character-based racing. Its innovative split-screen multiplayer mode made it a popular party game and a milestone in multiplayer gaming history.",
+    "description_i18n": {
+      "zh-CN": "《超级马里奥赛车》是任天堂于1992年为超级任天堂娱乐系统开发和发行的革命性赛车游戏。日版是这个后来成为游戏界最有影响力系列之一的最初发行版。玩家可以从马里奥宇宙中选择八个角色，每个角色都有影响速度、加速度和操控性的独特属性。游戏具有两种主要模式：大奖赛（与电脑控制的对手比赛）和对战模式（竞技多人游戏）。利用SNES的Mode 7图形能力创造伪3D赛车环境，《超级马里奥赛车》通过结合易于上手的游戏玩法、道具强化和基于角色的赛车，确立了卡丁车赛车游戏类型。其创新的分屏多人模式使其成为一款流行的派对游戏和多人游戏历史上的里程碑。"
+    },
     "cover": "/images/games/(J) Super Mario Kart-4-5-2025.png",
     "screenshots": [],
-    "releaseYear": null,
-    "developer": "",
-    "publisher": "",
+    "releaseYear": 1992,
+    "developer": "Nintendo EAD",
+    "publisher": "Nintendo",
     "genres": [
-      "Platform",
-      "Action"
+      "赛车",
+      "竞速"
     ],
     "platforms": [
       "snes"

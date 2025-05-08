@@ -23,7 +23,7 @@
 </template>
 
 <script setup lang="ts">
-import type { Platform } from '~/types/global'
+import type { Platform } from '~/shared/types'
 
 defineProps<{
   platform: Platform
