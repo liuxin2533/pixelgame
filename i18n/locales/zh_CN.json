@@ -1,0 +1,79 @@
+{
+  "gamecard": {
+    "playersSuffix": "人",
+    "multipleVersions": "多版本",
+    "publisherIcon": "🏢",
+    "playersIcon": "👤"
+  },
+  "error": {
+    "clearErrors": "清除错误"
+  },
+  "indexPage": {
+    "heroTitlePart1": "回到童年",
+    "heroTitlePart2": "时光",
+    "heroSubtitle": "重温那些曾让我们废寝忘食的经典游戏\nFC、SFC、GBA、GBC、MD等经典平台，数千款游戏等你体验",
+    "exploreGames": "探索游戏",
+    "learnMore": "了解更多",
+    "platformsTitle": "经典游戏平台",
+    "popularTitle": "热门游戏推荐",
+    "aboutTitle": "关于怀旧游戏天堂",
+    "ourStoryTitle": "我们的故事",
+    "ourStoryPara1": "怀旧游戏天堂诞生于对经典游戏的热爱与怀念。在数字化高度发达的今天，我们希望为玩家提供一个便捷的平台，重温那些曾经带给我们无限欢乐的经典游戏。",
+    "ourStoryPara2": "我们的目标是保存和传播游戏文化遗产，让新一代玩家也能体验到这些经典作品的魅力，同时唤起老玩家心中的美好回忆。",
+    "ourStoryQuote": "游戏不只是娱乐，更是连接过去与现在的情感纽带。",
+    "whyChooseUsTitle": "为什么选择我们？",
+    "whyChooseUsPoint1": "丰富的游戏库，包含FC、SFC、GBA、GBC、MD等多个平台的经典游戏",
+    "whyChooseUsPoint2": "无需下载安装，直接在浏览器中畅玩经典游戏",
+    "whyChooseUsPoint3": "支持游戏存档功能，随时保存和加载游戏进度",
+    "whyChooseUsPoint4": "优化的移动端体验，在手机和平板设备上也能流畅游玩",
+    "whyChooseUsPoint5": "持续更新的游戏库，定期添加新的经典游戏",
+    "nostalgiaQuote": "时光荏苒，游戏虽旧，乐趣永存。怀旧不是沉浸过去，而是珍视那些曾经带给我们欢乐的美好记忆。",
+    "newsletterTitle": "订阅我们的通知",
+    "newsletterSubtitle": "获取最新游戏上线通知、怀旧游戏资讯",
+    "emailPlaceholder": "输入您的邮箱地址",
+    "subscribeButton": "订阅通讯",
+    "seoTitle": "怀旧游戏天堂 - 重温经典游戏的乐趣",
+    "seoDescription": "在线畅玩FC、SFC、GBA、GBC、MD等平台的经典游戏，无需下载安装，直接在浏览器中体验童年的快乐。"
+  },
+  "gameDetailsPage": {
+    "gameInfoTitle": "游戏信息",
+    "gameCoverAlt": "游戏封面",
+    "typeLabel": "类型：",
+    "playersLabel": "同屏人数：",
+    "publisherLabel": "开发商：",
+    "descriptionTitle": "游戏简介：",
+    "fetchError": "获取游戏数据失败",
+    "seoTitleSuffix": " - 怀旧游戏天堂",
+    "seoDescription": "在线畅玩FC、SFC、GBA、GBC、MD等平台的经典游戏，无需下载安装，直接在浏览器中体验童年的快乐。",
+    "localErrorDisplay": "You can display the error locally here",
+    "clearErrorButton": "This will clear the error."
+  },
+  "platformDetailsPage": {
+    "consoleAlt": "{platformName}游戏机",
+    "searchPlaceholder": "搜索游戏...",
+    "seoTitleSuffix": " - 怀旧游戏天堂"
+  },
+  "header": {
+    "logoAlt": "怀旧游戏天堂",
+    "logoText": "怀旧游戏天堂",
+    "platformsLink": "游戏平台",
+    "popularLink": "热门游戏",
+    "aboutLink": "关于我们"
+  },
+  "footer": {
+    "title": "怀旧游戏天堂",
+    "subtitle": "重温经典游戏，体验童年乐趣",
+    "quickLinksTitle": "快速链接",
+    "platformsLink": "游戏平台",
+    "popularLink": "热门游戏",
+    "aboutLink": "关于我们",
+    "classicPlatformsTitle": "经典平台",
+    "nesPlatform": "FC / NES",
+    "snesPlatform": "SFC / SNES",
+    "gbaPlatform": "GBA",
+    "contactTitle": "联系我们",
+    "disclaimer": "本站游戏仅供学习研究使用，请在24小时内删除",
+    "copyright": "© 2025 怀旧游戏天堂 版权所有",
+    "privacyPolicy": "隐私政策"
+  }
+}

@@ -9,7 +9,7 @@
         <div class="w-32 h-32 rounded-full flex items-center justify-center">
           <img
             :src="platform.logo"
-            :alt="platform.name"
+            :alt="$t('platformDetailsPage.consoleAlt', { platformName: platform.name })"
             class="w-20 h-20"
           >
         </div>
@@ -38,7 +38,7 @@
             <div class="relative">
               <UInput
                 v-model="searchTerm"
-                placeholder="搜索游戏..."
+                :placeholder="$t('platformDetailsPage.searchPlaceholder')"
                 class="text-lg"
                 :ui="{
                   base: 'w-full py-2 px-4 bg-retro-black border-2 border-gray-700 rounded-md text-gray-200 focus:border-retro-gold focus:outline-none hover:border-gray-600 transition-colors pixel-corners',
@@ -87,8 +87,14 @@
 const route = useRoute()
 const platformId = route.params.id as string || 'nes'
 
+const supabase = useSupabaseClient()
+const { t } = useI18n()
+
 const { data, error: platformError } = await useAsyncData(`platform-${platformId}`, async () => {
-  const [platform, games] = await Promise.all([$fetch(`/api/platforms/${platformId}`), $fetch(`/api/platforms/${platformId}/games`)])
+  const platform = await $fetch(`/api/platforms/${platformId}`)
+  const { data: games } = await supabase.from('games')
+    .select('*')
+    .eq('platform', platformId.toUpperCase())
 
   return {
     platform,
@@ -104,8 +110,8 @@ if (platformError.value) {
 }
 
 useSeoMeta({
-  title: computed(() => `${platform.value.name} - 怀旧游戏天堂`),
-  description: '在线畅玩FC、SFC、GBA、GBC、MD等平台的经典游戏，无需下载安装，直接在浏览器中体验童年的快乐。',
+  title: computed(() => `${platform.value?.name}${t('platformDetailsPage.seoTitleSuffix')}`),
+  description: t('indexPage.seoDescription'),
 })
 </script>
 

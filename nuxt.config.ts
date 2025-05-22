@@ -9,6 +9,8 @@ export default defineNuxtConfig({
     '@nuxt/ui',
     'nuxt-gtag',
     '@nuxtjs/seo',
+    '@nuxtjs/supabase',
+    '@nuxtjs/i18n',
   ],
   devtools: { enabled: true },
   css: ['~/assets/css/tailwind.css'],
@@ -27,6 +29,10 @@ export default defineNuxtConfig({
       link: [{ rel: 'icon', type: 'image/svg+xml', href: '/logo.svg' }],
     },
   },
+  runtimeConfig: {
+    supabaseUrl: process.env.SUPABASE_URL,
+    supabaseKey: process.env.SUPABASE_SERVER_KEY,
+  },
   compatibilityDate: '2024-11-01',
   nitro: {
     externals: {
@@ -41,6 +47,22 @@ export default defineNuxtConfig({
   gtag: {
     enabled: process.env.NODE_ENV === 'production',
     id: 'G-HK4VN84PYQ',
+  },
+  i18n: {
+    defaultLocale: 'en',
+    strategy: 'prefix_and_default',
+    langDir: 'locales/',
+    baseUrl: 'https://pixelgame.vip', // seo： https://i18n.nuxtjs.org/docs/guide/seo
+    locales: [
+      { code: 'en', language: 'en-US', name: 'English', file: 'en_US.json' },
+      { code: 'zh', language: 'zh-CN', name: '简体中文', file: 'zh_CN.json' },
+      { code: 'ja', language: 'ja-JP', name: '简体中文', file: 'ja_JP.json' },
+    ],
+    detectBrowserLanguage: {
+      useCookie: true,
+      cookieKey: 'i18n_redirected',
+      redirectOn: 'root', // recommended
+    },
   },
   ogImage: {
     enabled: false,
@@ -59,5 +81,8 @@ export default defineNuxtConfig({
     sources: [
       '/api/__sitemap__/urls',
     ],
+  },
+  supabase: {
+    redirect: false,
   },
 })

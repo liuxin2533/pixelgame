@@ -1,0 +1,79 @@
+{
+  "gamecard": {
+    "playersSuffix": "人",
+    "multipleVersions": "複数バージョン",
+    "publisherIcon": "🏢",
+    "playersIcon": "👤"
+  },
+  "error": {
+    "clearErrors": "エラーをクリア"
+  },
+  "indexPage": {
+    "heroTitlePart1": "子供の頃に",
+    "heroTitlePart2": "戻ろう",
+    "heroSubtitle": "夢中になったクラシックゲームを追体験\nFC、SFC、GBA、GBC、MDなどのクラシックプラットフォームから数千のゲームを体験",
+    "exploreGames": "ゲームを探す",
+    "learnMore": "もっと知る",
+    "platformsTitle": "クラシックゲームプラットフォーム",
+    "popularTitle": "人気ゲーム",
+    "aboutTitle": "懐かしのゲーム天国について",
+    "ourStoryTitle": "私たちの物語",
+    "ourStoryPara1": "懐かしのゲーム天国は、クラシックゲームへの愛とノスタルジアから生まれました。高度にデジタル化された今日、私たちはプレイヤーが無限の喜びをもたらしたクラシックゲームを追体験できる便利なプラットフォームを提供することを目指しています。",
+    "ourStoryPara2": "私たちの目標は、ゲーム文化遺産を保存し広めることで、新世代のプレイヤーもこれらのクラシック作品の魅力を体験できるようにし、同時に古いプレイヤーの心に美しい思い出を呼び起こすことです。",
+    "ourStoryQuote": "ゲームは単なるエンターテイメントではなく、過去と現在をつなぐ感情的な絆です。",
+    "whyChooseUsTitle": "私たちを選ぶ理由",
+    "whyChooseUsPoint1": "FC、SFC、GBA、GBC、MDなど、複数のプラットフォームのクラシックゲームを含む豊富なゲームライブラリ",
+    "whyChooseUsPoint2": "ダウンロードやインストールは不要、ブラウザで直接クラシックゲームをプレイ",
+    "whyChooseUsPoint3": "ゲームセーブ機能をサポート、いつでもゲームの進行状況を保存およびロード",
+    "whyChooseUsPoint4": "最適化されたモバイル体験、携帯電話やタブレットデバイスでもスムーズにプレイ",
+    "whyChooseUsPoint5": "継続的に更新されるゲームライブラリ、定期的に新しいクラシックゲームを追加",
+    "nostalgiaQuote": "時は流れるが、ゲームは古くなっても楽しさは残る。ノスタルジアは過去に留まることではなく、かつて私たちに喜びをもたらした美しい記憶を大切にすることです。",
+    "newsletterTitle": "ニュースレターの購読",
+    "newsletterSubtitle": "新しいゲームリリースや懐かしいゲームニュースの通知を受け取る",
+    "emailPlaceholder": "メールアドレスを入力してください",
+    "subscribeButton": "購読",
+    "seoTitle": "懐かしのゲーム天国 - クラシックゲームの楽しさを再び",
+    "seoDescription": "FC、SFC、GBA、GBC、MDなどのプラットフォームのクラシックゲームをオンラインでプレイ、ダウンロードやインストールは不要、ブラウザで直接子供の頃の喜びを体験。"
+  },
+  "gameDetailsPage": {
+    "gameInfoTitle": "ゲーム情報",
+    "gameCoverAlt": "ゲームカバー",
+    "typeLabel": "タイプ：",
+    "playersLabel": "プレイヤー数：",
+    "publisherLabel": "開発者：",
+    "descriptionTitle": "ゲーム概要：",
+    "fetchError": "ゲームデータの取得に失敗しました",
+    "seoTitleSuffix": " - 懐かしのゲーム天国",
+    "seoDescription": "FC、SFC、GBA、GBC、MDなどのプラットフォームのクラシックゲームをオンラインでプレイ、ダウンロードやインストールは不要、ブラウザで直接子供の頃の喜びを体験。",
+    "localErrorDisplay": "エラーをここに表示できます",
+    "clearErrorButton": "これでエラーがクリアされます。"
+  },
+  "platformDetailsPage": {
+    "consoleAlt": "{platformName}ゲーム機",
+    "searchPlaceholder": "ゲームを探す...",
+    "seoTitleSuffix": " - 懐かしのゲーム天国"
+  },
+  "header": {
+    "logoAlt": "懐かしのゲーム天国",
+    "logoText": "懐かしのゲーム天国",
+    "platformsLink": "ゲームプラットフォーム",
+    "popularLink": "人気ゲーム",
+    "aboutLink": "私たちについて"
+  },
+  "footer": {
+    "title": "懐かしのゲーム天国",
+    "subtitle": "クラシックゲームを追体験し、子供の頃の楽しみを体験してください",
+    "quickLinksTitle": "クイックリンク",
+    "platformsLink": "ゲームプラットフォーム",
+    "popularLink": "人気ゲーム",
+    "aboutLink": "私たちについて",
+    "classicPlatformsTitle": "クラシックプラットフォーム",
+    "nesPlatform": "FC / NES",
+    "snesPlatform": "SFC / SNES",
+    "gbaPlatform": "GBA",
+    "contactTitle": "お問い合わせ",
+    "disclaimer": "当サイトのゲームは学習研究目的のみです。24時間以内に削除してください。",
+    "copyright": "© 2025 懐かしのゲーム天国 All rights reserved.",
+    "privacyPolicy": "プライバシーポリシー"
+  }
+}

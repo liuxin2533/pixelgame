@@ -8,10 +8,10 @@
         >
           <img
             src="~/assets/images/logo.svg"
-            alt="怀旧游戏天堂"
+            :alt="$t('header.logoAlt')"
             class="w-10 h-10"
           >
-          <span class="font-pixel text-retro-gold text-xl">怀旧游戏天堂</span>
+          <span class="font-pixel text-retro-gold text-xl">{{ $t('header.logoText') }}</span>
         </a>
 
         <div class="hidden md:flex items-center space-x-6">
@@ -19,19 +19,19 @@
             href="/#platforms"
             class="text-gray-800 hover:text-retro-gold text-lg"
           >
-            游戏平台
+            {{ $t('header.platformsLink') }}
           </a>
           <a
             href="/#popular"
             class="text-gray-800 hover:text-retro-gold text-lg"
           >
-            热门游戏
+            {{ $t('header.popularLink') }}
           </a>
           <a
             href="/#about"
             class="text-gray-800 hover:text-retro-gold text-lg"
           >
-            关于我们
+            {{ $t('header.aboutLink') }}
           </a>
         </div>
 
@@ -65,15 +65,15 @@
           <a
             href="/#platforms"
             class="text-gray-800 hover:text-retro-gold text-lg"
-          >游戏平台</a>
+          >{{ $t('header.platformsLink') }}</a>
           <a
             href="/#popular"
             class="text-gray-800 hover:text-retro-gold text-lg"
-          >热门游戏</a>
+          >{{ $t('header.popularLink') }}</a>
           <a
             href="/#about"
             class="text-gray-800 hover:text-retro-gold text-lg"
-          >关于我们</a>
+          >{{ $t('header.aboutLink') }}</a>
         </div>
       </div>
     </div>

@@ -30,22 +30,21 @@
           <div class="absolute -right-4 bottom-1/4 w-6 h-6 bg-retro-gold opacity-20 rotate-12" />
 
           <h1 class="text-3xl md:text-5xl text-white mb-6 retro-text-shadow relative z-10">
-            回到童年<span class="text-retro-gold">时光</span>
+            {{ $t('indexPage.heroTitlePart1') }}<span class="text-retro-gold">{{ $t('indexPage.heroTitlePart2') }}</span>
           </h1>
-          <p class="text-xl md:text-2xl mb-8 text-white relative z-10">
-            重温那些曾让我们废寝忘食的经典游戏
-            <br>FC、SFC、GBA、GBC、MD等经典平台，数千款游戏等你体验
+          <p class="text-xl md:text-2xl mb-8 text-white relative z-10 whitespace-pre-wrap">
+            {{ $t('indexPage.heroSubtitle') }}
           </p>
           <div class="flex flex-col sm:flex-row justify-center gap-4 relative z-10">
             <UButton
               to="#platforms"
             >
-              探索游戏
+              {{ $t('indexPage.exploreGames') }}
             </UButton>
             <UButton
               to="#about"
             >
-              了解更多
+              {{ $t('indexPage.learnMore') }}
             </UButton>
           </div>
         </div>
@@ -59,7 +58,7 @@
     >
       <div class="container mx-auto px-4">
         <h2 class="text-2xl md:text-3xl text-center mb-12 text-retro-gold">
-          <span class="inline-block border-b-2 border-retro-gold pb-2">经典游戏平台</span>
+          <span class="inline-block border-b-2 border-retro-gold pb-2">{{ $t('indexPage.platformsTitle') }}</span>
         </h2>
 
         <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
@@ -80,7 +79,7 @@
     >
       <div class="container mx-auto px-4">
         <h2 class="text-2xl md:text-3xl text-center mb-12 text-retro-gold">
-          <span class="inline-block border-b-2 border-retro-gold pb-2">热门游戏推荐</span>
+          <span class="inline-block border-b-2 border-retro-gold pb-2">{{ $t('indexPage.popularTitle') }}</span>
         </h2>
 
         <div class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 gap-4 md:gap-6">
@@ -101,21 +100,21 @@
     >
       <div class="relative z-10 container mx-auto px-4">
         <h2 class="text-2xl md:text-3xl text-center mb-12 text-retro-gold">
-          <span class="inline-block border-b-2 border-retro-gold pb-2">关于怀旧游戏天堂</span>
+          <span class="inline-block border-b-2 border-retro-gold pb-2">{{ $t('indexPage.aboutTitle') }}</span>
         </h2>
 
         <div class="grid grid-cols-1 md:grid-cols-2 gap-8 text-retro-gold">
           <UCard class="bg-retro-dark/60 border-2 border-gray-800 shadow-retro">
             <template #header>
               <h3 class="text-xl mb-2 text-retro-gold">
-                我们的故事
+                {{ $t('indexPage.ourStoryTitle') }}
               </h3>
             </template>
             <div class="space-y-4 text-gray-800">
-              <p>怀旧游戏天堂诞生于对经典游戏的热爱与怀念。在数字化高度发达的今天，我们希望为玩家提供一个便捷的平台，重温那些曾经带给我们无限欢乐的经典游戏。</p>
-              <p>我们的目标是保存和传播游戏文化遗产，让新一代玩家也能体验到这些经典作品的魅力，同时唤起老玩家心中的美好回忆。</p>
+              <p>{{ $t('indexPage.ourStoryPara1') }}</p>
+              <p>{{ $t('indexPage.ourStoryPara2') }}</p>
               <blockquote class="border-l-4 border-retro-gold pl-4 italic text-gray-400 my-4">
-                "游戏不只是娱乐，更是连接过去与现在的情感纽带。"
+                "{{ $t('indexPage.ourStoryQuote') }}"
               </blockquote>
             </div>
           </UCard>
@@ -123,7 +122,7 @@
           <UCard class="bg-retro-dark/60 border-2 border-gray-800 shadow-retro">
             <template #header>
               <h3 class="text-xl mb-2 text-retro-gold">
-                为什么选择我们？
+                {{ $t('indexPage.whyChooseUsTitle') }}
               </h3>
             </template>
             <div class="space-y-3 text-gray-800">
@@ -132,35 +131,35 @@
                   name="i-heroicons-check-circle"
                   class="text-retro-gold mr-2 mt-1 flex-shrink-0"
                 />
-                <span>丰富的游戏库，包含FC、SFC、GBA、GBC、MD等多个平台的经典游戏</span>
+                <span>{{ $t('indexPage.whyChooseUsPoint1') }}</span>
               </div>
               <div class="flex items-start">
                 <UIcon
                   name="i-heroicons-check-circle"
                   class="text-retro-gold mr-2 mt-1 flex-shrink-0"
                 />
-                <span>无需下载安装，直接在浏览器中畅玩经典游戏</span>
+                <span>{{ $t('indexPage.whyChooseUsPoint2') }}</span>
               </div>
               <div class="flex items-start">
                 <UIcon
                   name="i-heroicons-check-circle"
                   class="text-retro-gold mr-2 mt-1 flex-shrink-0"
                 />
-                <span>支持游戏存档功能，随时保存和加载游戏进度</span>
+                <span>{{ $t('indexPage.whyChooseUsPoint3') }}</span>
               </div>
               <div class="flex items-start">
                 <UIcon
                   name="i-heroicons-check-circle"
                   class="text-retro-gold mr-2 mt-1 flex-shrink-0"
                 />
-                <span>优化的移动端体验，在手机和平板设备上也能流畅游玩</span>
+                <span>{{ $t('indexPage.whyChooseUsPoint4') }}</span>
               </div>
               <div class="flex items-start">
                 <UIcon
                   name="i-heroicons-check-circle"
                   class="text-retro-gold mr-2 mt-1 flex-shrink-0"
                 />
-                <span>持续更新的游戏库，定期添加新的经典游戏</span>
+                <span>{{ $t('indexPage.whyChooseUsPoint5') }}</span>
               </div>
             </div>
           </UCard>
@@ -170,7 +169,7 @@
         <div class="mt-12 text-center max-w-3xl mx-auto">
           <div class="relative">
             <p class="text-xl md:text-2xl text-gray-800 italic">
-              时光荏苒，游戏虽旧，乐趣永存。怀旧不是沉浸过去，而是珍视那些曾经带给我们欢乐的美好记忆。
+              {{ $t('indexPage.nostalgiaQuote') }}
             </p>
           </div>
         </div>
@@ -182,10 +181,10 @@
       <div class="container mx-auto px-4">
         <div class="max-w-lg mx-auto text-center">
           <h3 class="text-xl font-pixel text-retro-gold mb-4">
-            订阅我们的通知
+            {{ $t('indexPage.newsletterTitle') }}
           </h3>
           <p class="text-gray-800 mb-6">
-            获取最新游戏上线通知、怀旧游戏资讯
+            {{ $t('indexPage.newsletterSubtitle') }}
           </p>
           <UForm
             :state="formState"
@@ -196,12 +195,12 @@
               <UInput
                 v-model="formState.email"
                 type="email"
-                placeholder="输入您的邮箱地址"
+                :placeholder="$t('indexPage.emailPlaceholder')"
                 class="w-full"
               />
             </UFormField>
             <UButton type="submit">
-              订阅通讯
+              {{ $t('indexPage.subscribeButton') }}
             </UButton>
           </UForm>
         </div>
@@ -218,13 +217,32 @@
 //   disablePngGeneration: true,
 // })
 
+const { t } = useI18n()
+
 useSeoMeta({
-  title: '怀旧游戏天堂 - 重温经典游戏的乐趣',
-  description: '在线畅玩FC、SFC、GBA、GBC、MD等平台的经典游戏，无需下载安装，直接在浏览器中体验童年的快乐。',
+  title: t('indexPage.seoTitle'),
+  description: t('indexPage.seoDescription'),
 })
 
-const { data: platforms } = await useFetch('/api/platforms')
-const { data: hotGames } = await useFetch('/api/games/hot')
+const supabase = useSupabaseClient()
+
+const { data } = await useAsyncData('index', async () => {
+  const { data: platforms } = await useFetch('/api/platforms')
+  const { data: hotGames } = await supabase.from('hot').select('game_id, game:games(*)')
+
+  return {
+    platforms: platforms.value,
+    hotGames,
+  }
+})
+
+const platforms = computed(() => {
+  return data.value?.platforms
+})
+
+const hotGames = computed(() => {
+  return data.value?.hotGames?.map(x => x.game)
+})
 // 页面元数据
 // useHead({
 //   title: '怀旧游戏天堂 - 重温经典游戏的乐趣',

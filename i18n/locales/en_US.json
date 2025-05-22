@@ -1,0 +1,79 @@
+{
+  "gamecard": {
+    "playersSuffix": " players",
+    "multipleVersions": "Multi-version",
+    "publisherIcon": "🏢",
+    "playersIcon": "👤"
+  },
+  "error": {
+    "clearErrors": "Clear errors"
+  },
+  "indexPage": {
+    "heroTitlePart1": "Back to Childhood",
+    "heroTitlePart2": " Era",
+    "heroSubtitle": "Relive the classic games that kept us hooked\nPlay thousands of games from classic platforms like FC, SFC, GBA, GBC, MD, and more",
+    "exploreGames": "Explore Games",
+    "learnMore": "Learn More",
+    "platformsTitle": "Classic Gaming Platforms",
+    "popularTitle": "Popular Games",
+    "aboutTitle": "About Nostalgic Gaming Heaven",
+    "ourStoryTitle": "Our Story",
+    "ourStoryPara1": "Nostalgic Gaming Heaven was born from a love and nostalgia for classic games. In today's highly digital world, we aim to provide a convenient platform for players to relive the classic games that brought us endless joy.",
+    "ourStoryPara2": "Our goal is to preserve and spread the cultural heritage of games, allowing a new generation of players to experience the charm of these classic works, while also evoking fond memories in older players.",
+    "ourStoryQuote": "Games are not just entertainment, but an emotional bond connecting the past and the present.",
+    "whyChooseUsTitle": "Why Choose Us?",
+    "whyChooseUsPoint1": "Rich game library, including classic games from multiple platforms like FC, SFC, GBA, GBC, MD",
+    "whyChooseUsPoint2": "No download or installation required, play classic games directly in your browser",
+    "whyChooseUsPoint3": "Supports game save function, save and load game progress anytime",
+    "whyChooseUsPoint4": "Optimized mobile experience, play smoothly on phones and tablets",
+    "whyChooseUsPoint5": "Continuously updated game library, regularly adding new classic games",
+    "nostalgiaQuote": "Time flies, but games grow old, the fun remains. Nostalgia is not dwelling in the past, but cherishing the beautiful memories that once brought us joy.",
+    "newsletterTitle": "Subscribe to Our Newsletter",
+    "newsletterSubtitle": "Get notified about new game releases and nostalgic gaming news",
+    "emailPlaceholder": "Enter your email address",
+    "subscribeButton": "Subscribe",
+    "seoTitle": "Nostalgic Gaming Heaven - Relive the Fun of Classic Games",
+    "seoDescription": "Play classic games from platforms like FC, SFC, GBA, GBC, MD online, no download or installation required, experience childhood joy directly in your browser."
+  },
+  "gameDetailsPage": {
+    "gameInfoTitle": "Game Information",
+    "gameCoverAlt": "Game Cover",
+    "typeLabel": "Type:",
+    "playersLabel": "Players:",
+    "publisherLabel": "Developer:",
+    "descriptionTitle": "Description:",
+    "fetchError": "Failed to fetch game data",
+    "seoTitleSuffix": " - Nostalgic Gaming Heaven",
+    "seoDescription": "Play classic games from platforms like FC, SFC, GBA, GBC, MD online, no download or installation required, experience childhood joy directly in your browser.",
+    "localErrorDisplay": "You can display the error locally here",
+    "clearErrorButton": "This will clear the error."
+  },
+  "platformDetailsPage": {
+    "consoleAlt": "{platformName} game console",
+    "searchPlaceholder": "Search games...",
+    "seoTitleSuffix": " - Nostalgic Gaming Heaven"
+  },
+  "header": {
+    "logoAlt": "Nostalgic Gaming Heaven",
+    "logoText": "Nostalgic Gaming Heaven",
+    "platformsLink": "Platforms",
+    "popularLink": "Popular Games",
+    "aboutLink": "About Us"
+  },
+  "footer": {
+    "title": "Nostalgic Gaming Heaven",
+    "subtitle": "Relive classic games, experience childhood fun",
+    "quickLinksTitle": "Quick Links",
+    "platformsLink": "Platforms",
+    "popularLink": "Popular Games",
+    "aboutLink": "About Us",
+    "classicPlatformsTitle": "Classic Platforms",
+    "nesPlatform": "FC / NES",
+    "snesPlatform": "SFC / SNES",
+    "gbaPlatform": "GBA",
+    "contactTitle": "Contact Us",
+    "disclaimer": "Games on this site are for learning and research purposes only. Please delete within 24 hours.",
+    "copyright": "© 2025 Nostalgic Gaming Heaven All rights reserved.",
+    "privacyPolicy": "Privacy Policy"
+  }
+}
