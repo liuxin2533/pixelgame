@@ -1,0 +1,5 @@
+[vars]
+NUXT_SITE_URL = "https://pixelgame.vip"
+NUXT_SITE_NAME = "Pixel Game | FC SFC GBA GBC"
+SUPABASE_URL = "https://egonlvsylnvmznhadusr.supabase.co"
+SUPABASE_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImVnb25sdnN5bG52bXpuaGFkdXNyIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDcyMzA5ODIsImV4cCI6MjA2MjgwNjk4Mn0.vD9VcbXFs6GPBdWkzzzkNZlaxeyif6wzHdaX6_UaBls"
