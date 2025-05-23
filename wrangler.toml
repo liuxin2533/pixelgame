@@ -1,4 +1,4 @@
-[vars]
+name = "pixelgame"[vars]
 NUXT_SITE_URL = "https://pixelgame.vip"
 NUXT_SITE_NAME = "Pixel Game | FC SFC GBA GBC"
 SUPABASE_URL = "https://egonlvsylnvmznhadusr.supabase.co"
