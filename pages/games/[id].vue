@@ -168,7 +168,6 @@ function setupEmulatorJS() {
     exitEmulation: false,
   }
 
-  // 加载EmulatorJS加载器脚本
   const loaderScript = document.createElement('script')
   loaderScript.src = 'https://cdn.emulatorjs.org/stable/data/loader.js'
   document.body.appendChild(loaderScript)
